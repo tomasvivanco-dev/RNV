@@ -4,14 +4,14 @@
    ========================================================= */
 
 :root {
- --bg: #f4efe6;
-  --bg-card: #fbf8f1;
-  --ink: #1a1714;
-  --ink-soft: #5a544c;
-  --ink-mute: #8a8278;
-  --rule: #d8cfbf;
-  --accent: #b3261e;
-  --accent-soft: #f0d4d1;
+ --bg: #f5f6f8;
+  --bg-card: #ffffff;
+  --ink: #0a1e3f;
+  --ink-soft: #2e4a73;
+  --ink-mute: #7a8aa3;
+  --rule: #d4dae3;
+  --accent: #c41e3a;
+  --accent-soft: #fadde1;
 
   /* Colores por sector */
   --sector-derecha: #2b5d8a;
