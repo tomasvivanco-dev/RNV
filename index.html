@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Casos de corrupción política · Chile</title>
+  <meta name="description" content="Registro de los principales casos de corrupción política en Chile desde el retorno a la democracia. Sitio editorial, datos abiertos." />
+  <meta name="robots" content="index, follow" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Casos de corrupción política · Chile" />
+  <meta property="og:description" content="Registro de los principales casos de corrupción política en Chile." />
+  <meta property="og:type" content="website" />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <div class="container">
+      <div class="masthead__top">
+        <span class="masthead__kicker">Registro editorial · Chile</span>
+        <span class="masthead__date" id="fechaActual"></span>
+      </div>
+      <h1 class="masthead__title">Casos de corrupción <span class="masthead__title-em">política</span></h1>
+      <p class="masthead__lede">
+        Registro de los principales casos de corrupción en la política chilena desde el retorno a la democracia. Datos compilados a partir de fuentes periodísticas y judiciales abiertas.
+      </p>
+      <div class="masthead__stats" id="stats" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <nav class="filters" aria-label="Filtros">
+    <div class="container filters__inner">
+      <div class="filters__search">
+        <label for="search" class="visually-hidden">Buscar</label>
+        <input
+          type="search"
+          id="search"
+          placeholder="Buscar caso, persona, partido…"
+          autocomplete="off"
+        />
+      </div>
+      <div class="filters__chips" id="chips" role="group" aria-label="Filtrar por sector">
+        <button class="chip is-active" data-sector="todos">Todos</button>
+        <button class="chip" data-sector="derecha">Derecha</button>
+        <button class="chip" data-sector="centroizquierda">Centroizquierda</button>
+        <button class="chip" data-sector="izquierda">Izquierda</button>
+        <button class="chip" data-sector="transversal">Transversal</button>
+        <button class="chip" data-sector="institucional">Institucional</button>
+      </div>
+      <div class="filters__sort">
+        <label for="sort" class="visually-hidden">Ordenar</label>
+        <select id="sort">
+          <option value="anio-desc">Más recientes primero</option>
+          <option value="anio-asc">Más antiguos primero</option>
+          <option value="nombre">Alfabético</option>
+        </select>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container">
+    <ol class="casos" id="casos"></ol>
+    <p class="empty" id="empty" hidden>No hay casos que coincidan con la búsqueda.</p>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>
+        Este sitio es un compendio editorial de información pública. Los casos se describen con base en reportajes periodísticos y resoluciones judiciales abiertas. Donde la causa sigue activa, se indica el estado procesal.
+      </p>
+      <p class="footer__meta">
+        Datos: <code>casos.json</code> · Código abierto · Sin trackers ·
+        <a href="https://github.com" target="_blank" rel="noopener">Ver en GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
