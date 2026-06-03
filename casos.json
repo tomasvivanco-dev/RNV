@@ -265,5 +265,17 @@
   "resumen": "El exalcalde de Algarrobo José Luis Yáñez (UDI, 2016-2023) fue detenido en noviembre de 2023 y formalizado por malversación de caudales públicos y cohecho, tras destaparse un desfalco municipal cercano a los $1.069 millones. El esquema, ejecutado entre marzo de 2022 y noviembre de 2023, operó mediante la alteración sistemática de nóminas de pago de la tesorería municipal —a cargo de Belén Carrasco, expareja del alcalde y extesorera—, transfiriendo fondos a testaferros que luego devolvían el dinero en efectivo reteniendo cerca del 10% como comisión. La investigación reveló además la compra de cuatro propiedades por US$90.000 en el estado de Florida y operaciones en criptomonedas para lavar los fondos. En diciembre de 2025, el Tribunal de Juicio Oral en lo Penal de San Antonio lo condenó como autor de malversación y lavado de activos por un monto acreditado de $1.054 millones; la Fiscalía pidió 12 años de cárcel.",
   "estado": "Veredicto condenatorio diciembre 2025; Yáñez en prisión preventiva; Belén Carrasco en arresto domiciliario; pena pendiente de lectura",
   "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/condenan-a-exalcalde-de-algarrobo-por-fraude-de-mas-de-mil-millones-y/2025-12-24/003850.html"
+},{
+  "id": "karen-rojo-main",
+  "nombre": "Caso Main / Karen Rojo (Antofagasta)",
+  "anio": 2020,
+  "tipo": "Fraude al fisco",
+  "categoria": "corrupcion",
+  "sector": "derecha",
+  "partidos": ["Independiente (vinculada a RN, luego bancada UDI)"],
+  "involucrados": ["Karen Rojo Venegas", "Edgardo Vergara", "Main Comunicaciones", "José Miguel Izquierdo"],
+  "resumen": "La exalcaldesa de Antofagasta Karen Rojo (independiente, exseremi de Salud del primer gobierno de Piñera, incorporada a la bancada de alcaldes UDI en 2019) fue condenada en enero de 2021 a 5 años y un día de presidio efectivo más inhabilitación perpetua para derechos políticos por fraude al fisco. El caso, conocido como 'Caso Main', acreditó que entre octubre de 2015 y agosto de 2016 contrató con fondos de la Corporación Municipal de Desarrollo Social los servicios de la agencia Main Comunicaciones de José Miguel Izquierdo —incluyendo encuestas Cadem— para reposicionar su imagen de cara a las elecciones municipales de 2016. Fue suspendida en julio de 2020 y renunció en noviembre. La Corte Suprema confirmó la condena el 23 de marzo de 2022; ese mismo día Rojo abordó un vuelo a Ámsterdam y se mantuvo prófuga hasta julio de 2022, cuando fue detenida en Países Bajos. El Tribunal de Rotterdam admitió la solicitud de extradición chilena en marzo de 2023. También fue condenado el exsecretario ejecutivo de la Corporación Municipal Edgardo Vergara (3 años y un día de libertad vigilada).",
+  "estado": "Condena firme (5 años efectivos); cumpliéndola en cárcel de Utrecht, Países Bajos; proceso de extradición a Chile activo",
+  "fuente": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/ex-alcaldesa-karen-rojo-condenada-a-cinco-anos-de-carcel-por-fraude-al/2022-03-24/135330.html"
 }
 ]
