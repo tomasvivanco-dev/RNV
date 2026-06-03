@@ -20,8 +20,8 @@
   --sector-transversal: #6b4e8a;
   --sector-institucional: #4a4a4a;
 
-  --serif: "Fraunces", "Iowan Old Style", "Palatino", Georgia, serif;
-  --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --serif: "Google Sans Flex", "Iowan Old Style", "Palatino", Georgia, serif;
+  --sans: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   --mono: "JetBrains Mono", "SF Mono", Menlo, monospace;
 
   --max: 980px;
