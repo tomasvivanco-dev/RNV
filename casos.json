@@ -253,5 +253,17 @@
   "resumen": "El 1 de octubre de 2021 la Municipalidad de Santiago, bajo la alcaldía de Irací Hassler (PC), presentó ante el 7° Juzgado de Garantía una querella por fraude a la municipalidad y falsificación de instrumento público contra tres funcionarios de la administración del ex alcalde Felipe Alessandri (RN, 2016-2021): el ex administrador municipal Juan Francisco García Mac-Iver, el ex director jurídico Agustín Romero (hoy diputado del Partido Republicano) y el ex jefe de gabinete José Ignacio Labbé. Entre 2017 y 2021, los tres percibieron $147.286.101 por trabajos extraordinarios en sábados, domingos y festivos; los registros del Departamento de Seguridad Interna del propio municipio muestran que en muchas de esas fechas no ingresaron a las dependencias. Alessandri no fue querellado. En diciembre de 2024, el nuevo alcalde Mario Desbordes (RN) acordó con Romero suspender por 60 días el cobro civil municipal, que con intereses y costas escaló a cerca de $1.000 millones.",
   "estado": "Querella admitida; investigación de Fiscalía Centro Norte; cobro civil suspendido en diciembre 2024",
   "fuente": "https://www.latercera.com/la-tercera-pm/noticia/hassler-vs-alessandri-municipio-de-santiago-se-querella-en-contra-de-tres-exfuncionarios-por-fraude-en-horas-extras/2V5XYEGDGZALPFE74FMZ4PRJTQ/"
+},{
+  "id": "algarrobo-yanez",
+  "nombre": "Caso Algarrobo / Desfalco municipal (Yáñez)",
+  "anio": 2023,
+  "tipo": "Malversación de caudales públicos / lavado de activos",
+  "categoria": "corrupcion",
+  "sector": "derecha",
+  "partidos": ["UDI"],
+  "involucrados": ["José Luis Yáñez Maldonado", "Belén Carrasco", "Sixto Carrasco"],
+  "resumen": "El exalcalde de Algarrobo José Luis Yáñez (UDI, 2016-2023) fue detenido en noviembre de 2023 y formalizado por malversación de caudales públicos y cohecho, tras destaparse un desfalco municipal cercano a los $1.069 millones. El esquema, ejecutado entre marzo de 2022 y noviembre de 2023, operó mediante la alteración sistemática de nóminas de pago de la tesorería municipal —a cargo de Belén Carrasco, expareja del alcalde y extesorera—, transfiriendo fondos a testaferros que luego devolvían el dinero en efectivo reteniendo cerca del 10% como comisión. La investigación reveló además la compra de cuatro propiedades por US$90.000 en el estado de Florida y operaciones en criptomonedas para lavar los fondos. En diciembre de 2025, el Tribunal de Juicio Oral en lo Penal de San Antonio lo condenó como autor de malversación y lavado de activos por un monto acreditado de $1.054 millones; la Fiscalía pidió 12 años de cárcel.",
+  "estado": "Veredicto condenatorio diciembre 2025; Yáñez en prisión preventiva; Belén Carrasco en arresto domiciliario; pena pendiente de lectura",
+  "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/condenan-a-exalcalde-de-algarrobo-por-fraude-de-mas-de-mil-millones-y/2025-12-24/003850.html"
 }
 ]
