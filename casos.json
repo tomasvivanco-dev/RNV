@@ -277,5 +277,17 @@
   "resumen": "La exalcaldesa de Antofagasta Karen Rojo (independiente, exseremi de Salud del primer gobierno de Piñera, incorporada a la bancada de alcaldes UDI en 2019) fue condenada en enero de 2021 a 5 años y un día de presidio efectivo más inhabilitación perpetua para derechos políticos por fraude al fisco. El caso, conocido como 'Caso Main', acreditó que entre octubre de 2015 y agosto de 2016 contrató con fondos de la Corporación Municipal de Desarrollo Social los servicios de la agencia Main Comunicaciones de José Miguel Izquierdo —incluyendo encuestas Cadem— para reposicionar su imagen de cara a las elecciones municipales de 2016. Fue suspendida en julio de 2020 y renunció en noviembre. La Corte Suprema confirmó la condena el 23 de marzo de 2022; ese mismo día Rojo abordó un vuelo a Ámsterdam y se mantuvo prófuga hasta julio de 2022, cuando fue detenida en Países Bajos. El Tribunal de Rotterdam admitió la solicitud de extradición chilena en marzo de 2023. También fue condenado el exsecretario ejecutivo de la Corporación Municipal Edgardo Vergara (3 años y un día de libertad vigilada).",
   "estado": "Condena firme (5 años efectivos); cumpliéndola en cárcel de Utrecht, Países Bajos; proceso de extradición a Chile activo",
   "fuente": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/ex-alcaldesa-karen-rojo-condenada-a-cinco-anos-de-carcel-por-fraude-al/2022-03-24/135330.html"
+},{
+  "id": "krist-naranjo-coquimbo",
+  "nombre": "Caso Naranjo / Gobernación de Coquimbo",
+  "anio": 2024,
+  "tipo": "Extorsión a funcionarios / uso indebido de bienes fiscales / falta a la probidad",
+  "categoria": "corrupcion",
+  "sector": "izquierda",
+  "partidos": ["Independiente (vinculada al Partido Ecologista Verde)"],
+  "involucrados": ["Krist Naranjo Peñaloza", "Karina Aguirre"],
+  "resumen": "Krist Naranjo, primera gobernadora regional de Coquimbo (electa en 2021 como independiente con apoyo del Partido Ecologista Verde), enfrentó varios escándalos en cascada. Primero, en agosto de 2023 la Contraloría la suspendió por tres meses tras acreditar que en 2021 y 2022 usó el vehículo fiscal para traslados personales —compras en malls y supermercados— e incluso lo prestaba a su hijo para viajar a la universidad. En mayo de 2024, la Unidad de Investigación de Radio Bío Bío reveló que desde agosto de 2023 Naranjo habría exigido a sus funcionarios de confianza aportes mensuales de entre $50.000 y $500.000 de sus sueldos para financiar su campaña de reelección, bajo amenaza de despido; la administradora regional Karina Aguirre habría operado como recaudadora. La Fiscalía Nacional Anticorrupción, Carabineros y la Contraloría abrieron investigación tras la denuncia del diputado Juan Manuel Fuenzalida (UDI). Se sumaron además viajes a Egipto, México y Argentina sin justificación institucional. El 23 de agosto de 2024 el Tribunal Calificador de Elecciones (TRICEL) la destituyó por notable abandono de deberes y faltas graves a la probidad, inhabilitándola por cinco años para ejercer cargos públicos. La reemplazó como subrogante Wladimir Pleticosic (DC).",
+  "estado": "Destituida por TRICEL (agosto 2024); inhabilitada 5 años; investigación penal por extorsión en curso",
+  "fuente": "https://www.theclinic.cl/2024/05/17/gobernadora-de-coquimbo-es-acusada-de-extorsion-por-sus-propios-funcionarios/"
 }
 ]
