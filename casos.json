@@ -202,5 +202,43 @@
     "resumen": "El exsubsecretario del Interior Manuel Monsalve (PS) fue formalizado por violación y abuso sexual contra una subordinada. El caso golpeó al gobierno de Boric por el manejo institucional de la denuncia y las demoras en su salida del cargo.",
     "estado": "Formalizado en prisión preventiva",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Monsalve"
-  }
+  },
+  {
+  "id": "quiroz-colusiones",
+  "nombre": "Caso Quiroz / Colusiones de pollos y farmacias",
+  "anio": 2014,
+  "tipo": "Vínculos de autoridad política con colusión empresarial",
+  "categoria": "controversia",
+  "sector": "derecha",
+  "partidos": ["Independiente (gabinete Kast)", "Partido Republicano"],
+  "involucrados": ["Jorge Quiroz", "Quiroz & Asociados", "Agrosuper", "Ariztía", "Don Pollo", "Salcobrand"],
+  "resumen": "El actual ministro de Hacienda Jorge Quiroz —designado por el presidente José Antonio Kast en enero de 2026— es mencionado reiteradamente en la sentencia del TDLC sobre la colusión de los pollos (2014): su consultora Quiroz & Asociados figura en el fallo como autora de los modelos económicos de proyección que Agrosuper, Ariztía y Don Pollo utilizaron para repartirse cuotas de producción y coordinar precios entre 1994 y 2011. Su oficina también asesoró a Salcobrand durante la colusión de las farmacias, sosteniendo que no había acuerdo de precios; la farmacia fue finalmente condenada. Quiroz no fue imputado penalmente y niega haber diseñado los modelos colusorios. La controversia resurgió en la campaña presidencial de 2025 y al asumir Hacienda en marzo de 2026.",
+  "estado": "Empresas condenadas por TDLC y Corte Suprema; Quiroz sin imputación penal, en ejercicio como ministro de Hacienda",
+  "fuente": "https://interferencia.cl/articulos/kast-defiende-el-rol-en-la-colusion-de-los-pollos-de-su-asesor-economico-jorge-quiroz"
+},{
+  "id": "pinera-lan",
+  "nombre": "Caso LAN / Información privilegiada (Piñera)",
+  "anio": 2007,
+  "tipo": "Uso de información privilegiada",
+  "categoria": "corrupcion",
+  "sector": "derecha",
+  "partidos": ["RN", "Independiente"],
+  "involucrados": ["Sebastián Piñera", "Juan José Cueto", "LAN Airlines"],
+  "resumen": "En julio de 2006 el entonces senador y empresario Sebastián Piñera compró acciones de LAN —empresa de la que era director— días antes de que se publicaran sus resultados financieros, que dispararon el precio de la acción. En julio de 2007 la Superintendencia de Valores y Seguros (SVS) lo sancionó con una multa de $363 millones por infringir el 'deber de abstención' de operar en posesión de información privilegiada; Piñera pagó la multa sin apelar. En 2018, el libro 'Piñera y los leones de Sanhattan' del periodista Sergio Jara reveló la existencia de grabaciones que apuntarían al uso efectivo de esa información, una figura más grave que la SVS había descartado por no poder acreditarla en su momento.",
+  "estado": "Multa administrativa pagada (2007); causa penal nunca abierta; Piñera fallecido en febrero de 2024",
+  "fuente": "https://www.latercera.com/politica/noticia/caso-pinera-lan-la-grabacion-la-svs-desecho/308895/"
+},
+{
+  "id": "pinera-dominga",
+  "nombre": "Caso Dominga / Pandora Papers (Piñera)",
+  "anio": 2021,
+  "tipo": "Conflicto de intereses / paraísos fiscales",
+  "categoria": "corrupcion",
+  "sector": "derecha",
+  "partidos": ["RN", "Independiente"],
+  "involucrados": ["Sebastián Piñera", "Carlos Alberto Délano", "Minera Dominga", "Andes Iron"],
+  "resumen": "En octubre de 2021, la investigación 'Pandora Papers' del ICIJ —con participación de CIPER y LaBot en Chile— reveló que en 2010 las familias Piñera y Délano cerraron en las Islas Vírgenes Británicas la compraventa de Minera Dominga por US$152 millones. Una cláusula del contrato condicionaba el último pago a que no hubiera cambios regulatorios que afectaran el proyecto minero-portuario en La Higuera —decisión que dependía del propio Piñera, recién asumido como presidente. La oposición presentó acusación constitucional por infracción al principio de probidad: fue aprobada en la Cámara de Diputados (78 votos a favor) y rechazada en el Senado al no alcanzar los dos tercios. La Fiscalía Nacional abrió investigación de oficio por eventuales delitos tributarios, cohecho y soborno.",
+  "estado": "Acusación constitucional rechazada en Senado; investigación penal cerrada tras fallecimiento de Piñera (feb 2024)",
+  "fuente": "https://www.ciperchile.cl/2021/10/03/pandora-papers-familias-pinera-y-delano-sellaron-millonaria-compraventa-de-minera-dominga-en-islas-virgenes-britanicas/"
+}
 ]
