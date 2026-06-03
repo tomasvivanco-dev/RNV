@@ -240,5 +240,18 @@
   "resumen": "En octubre de 2021, la investigación 'Pandora Papers' del ICIJ —con participación de CIPER y LaBot en Chile— reveló que en 2010 las familias Piñera y Délano cerraron en las Islas Vírgenes Británicas la compraventa de Minera Dominga por US$152 millones. Una cláusula del contrato condicionaba el último pago a que no hubiera cambios regulatorios que afectaran el proyecto minero-portuario en La Higuera —decisión que dependía del propio Piñera, recién asumido como presidente. La oposición presentó acusación constitucional por infracción al principio de probidad: fue aprobada en la Cámara de Diputados (78 votos a favor) y rechazada en el Senado al no alcanzar los dos tercios. La Fiscalía Nacional abrió investigación de oficio por eventuales delitos tributarios, cohecho y soborno.",
   "estado": "Acusación constitucional rechazada en Senado; investigación penal cerrada tras fallecimiento de Piñera (feb 2024)",
   "fuente": "https://www.ciperchile.cl/2021/10/03/pandora-papers-familias-pinera-y-delano-sellaron-millonaria-compraventa-de-minera-dominga-en-islas-virgenes-britanicas/"
+},
+  {
+  "id": "horas-extra-santiago",
+  "nombre": "Caso Horas Extra del Municipio de Santiago",
+  "anio": 2021,
+  "tipo": "Fraude municipal / falsificación de instrumento público",
+  "categoria": "corrupcion",
+  "sector": "derecha",
+  "partidos": ["RN", "Partido Republicano"],
+  "involucrados": ["Felipe Alessandri", "Juan Francisco García Mac-Iver", "Agustín Romero Leiva", "José Ignacio Labbé Martínez"],
+  "resumen": "El 1 de octubre de 2021 la Municipalidad de Santiago, bajo la alcaldía de Irací Hassler (PC), presentó ante el 7° Juzgado de Garantía una querella por fraude a la municipalidad y falsificación de instrumento público contra tres funcionarios de la administración del ex alcalde Felipe Alessandri (RN, 2016-2021): el ex administrador municipal Juan Francisco García Mac-Iver, el ex director jurídico Agustín Romero (hoy diputado del Partido Republicano) y el ex jefe de gabinete José Ignacio Labbé. Entre 2017 y 2021, los tres percibieron $147.286.101 por trabajos extraordinarios en sábados, domingos y festivos; los registros del Departamento de Seguridad Interna del propio municipio muestran que en muchas de esas fechas no ingresaron a las dependencias. Alessandri no fue querellado. En diciembre de 2024, el nuevo alcalde Mario Desbordes (RN) acordó con Romero suspender por 60 días el cobro civil municipal, que con intereses y costas escaló a cerca de $1.000 millones.",
+  "estado": "Querella admitida; investigación de Fiscalía Centro Norte; cobro civil suspendido en diciembre 2024",
+  "fuente": "https://www.latercera.com/la-tercera-pm/noticia/hassler-vs-alessandri-municipio-de-santiago-se-querella-en-contra-de-tres-exfuncionarios-por-fraude-en-horas-extras/2V5XYEGDGZALPFE74FMZ4PRJTQ/"
 }
 ]
