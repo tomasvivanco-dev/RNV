@@ -3,26 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Registro Nacional de Vándalos · Chile</title>
-<meta name="description" content="Registro de los principales casos de corrupción y controversias éticas de la política chilena. Porque vándalo es quien destruye lo común." />
-  <meta name="robots" content="index, follow" />
-
-  <!-- Open Graph -->
-  <meta property="og:title" content="Casos de corrupción política · Chile" />
-  <meta property="og:description" content="Registro de los principales casos de corrupción política en Chile." />
-  <meta property="og:type" content="website" />
-
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap" rel="stylesheet">
-
-  <link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
   <title>Registro Nacional de Vándalos — Casos de corrupción y ética política en Chile</title>
   <meta name="description" content="Registro independiente de los principales casos de corrupción, fraude y controversias éticas de la política chilena desde el retorno a la democracia. Datos abiertos y fuentes verificables." />
@@ -52,12 +32,12 @@
   <meta name="twitter:description" content="Registro independiente de casos de corrupción y controversias éticas de la política chilena." />
   <meta name="twitter:image" content="https://registronacionaldevandalos.cl/og-image.png" />
 
-  <!-- Favicon (referencias; los archivos los creás en el paso 4) -->
+  <!-- Favicon (los archivos podés subirlos después, las referencias no rompen nada si no existen aún) -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
   <link rel="icon" type="image/png" href="/favicon.png" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
-  <!-- Theme color (barra del navegador móvil, tono navy CIPER) -->
+  <!-- Theme color barra navegador móvil -->
   <meta name="theme-color" content="#0a1e3f" />
 
   <!-- Fonts -->
@@ -67,7 +47,7 @@
 
   <link rel="stylesheet" href="styles.css" />
 
-  <!-- Schema.org: dataset + sitio + organización -->
+  <!-- Schema.org: WebSite + Dataset -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -102,6 +82,21 @@
   }
   </script>
 </head>
+<body>
+
+  <header class="masthead">
+    <div class="container">
+      <div class="masthead__top">
+        <span class="masthead__kicker">Chile · Editorial independiente</span>
+        <span class="masthead__date" id="fechaActual"></span>
+      </div>
+      <h1 class="masthead__title">Registro Nacional <span class="masthead__title-em">de Vándalos</span></h1>
+      <p class="masthead__lede">
+        Casos de corrupción y controversias éticas de la política chilena desde el retorno a la democracia. Porque vándalo es también quien rompe lo común y se enriquece del Estado.
+      </p>
+      <div class="masthead__stats" id="stats" aria-live="polite"></div>
+    </div>
+  </header>
 
   <nav class="filters" aria-label="Filtros">
     <div class="container filters__inner">
@@ -144,7 +139,8 @@
         Este sitio es un compendio editorial de información pública. Los casos se describen con base en reportajes periodísticos y resoluciones judiciales abiertas. Donde la causa sigue activa, se indica el estado procesal.
       </p>
       <p class="footer__meta">
-       Código abierto · Sin trackers ·
+        Código abierto · Sin trackers ·
+        <a href="https://github.com/tomasvivanco-dev/RNV" target="_blank" rel="noopener">Ver en GitHub</a>
       </p>
     </div>
   </footer>
