@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://registronacionaldevandalos.cl/sitemap.xml
