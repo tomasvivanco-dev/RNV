@@ -289,5 +289,18 @@
   "resumen": "Krist Naranjo, primera gobernadora regional de Coquimbo (electa en 2021 como independiente con apoyo del Partido Ecologista Verde), enfrentó varios escándalos en cascada. Primero, en agosto de 2023 la Contraloría la suspendió por tres meses tras acreditar que en 2021 y 2022 usó el vehículo fiscal para traslados personales —compras en malls y supermercados— e incluso lo prestaba a su hijo para viajar a la universidad. En mayo de 2024, la Unidad de Investigación de Radio Bío Bío reveló que desde agosto de 2023 Naranjo habría exigido a sus funcionarios de confianza aportes mensuales de entre $50.000 y $500.000 de sus sueldos para financiar su campaña de reelección, bajo amenaza de despido; la administradora regional Karina Aguirre habría operado como recaudadora. La Fiscalía Nacional Anticorrupción, Carabineros y la Contraloría abrieron investigación tras la denuncia del diputado Juan Manuel Fuenzalida (UDI). Se sumaron además viajes a Egipto, México y Argentina sin justificación institucional. El 23 de agosto de 2024 el Tribunal Calificador de Elecciones (TRICEL) la destituyó por notable abandono de deberes y faltas graves a la probidad, inhabilitándola por cinco años para ejercer cargos públicos. La reemplazó como subrogante Wladimir Pleticosic (DC).",
   "estado": "Destituida por TRICEL (agosto 2024); inhabilitada 5 años; investigación penal por extorsión en curso",
   "fuente": "https://www.theclinic.cl/2024/05/17/gobernadora-de-coquimbo-es-acusada-de-extorsion-por-sus-propios-funcionarios/"
+},{
+  "id": "la-calera-piraino",
+  "nombre": "Caso La Calera / Maquinaria municipal (Piraino)",
+  "anio": 2026,
+  "tipo": "Fraude al fisco",
+  "categoria": "corrupcion",
+  "sector": "centroizquierda",
+  "partidos": ["DC"],
+  "involucrados": ["Johnny Piraino Meneses"],
+  "resumen": "El alcalde de La Calera Johnny Piraino (DC) fue formalizado el 3 de junio de 2026 por fraude al fisco tras acreditarse que entre el 31 de marzo y el 1 de abril de 2023 instruyó a funcionarios municipales para trasladar un camión aljibe y una retroexcavadora del municipio hasta una parcela de su propiedad en el sector La Peña de Nogales, donde se realizaron trabajos particulares ajenos a las funciones municipales. La causa se originó en un informe de la Contraloría Regional de Valparaíso, que en enero de 2026 lo suspendió por 30 días. Un extrabajador municipal denunció además que lo obligaban a trabajar en la parcela del alcalde en horario laboral sin pago adicional. El Consejo de Defensa del Estado se querelló en la causa. Tras la audiencia, el Juzgado de Garantía de La Calera decretó arraigo nacional y firma mensual, con un plazo de investigación de 180 días. El monto defraudado no arriesga pena privativa de libertad.",
+  "estado": "Formalizado junio 2026; arraigo nacional y firma mensual; investigación en curso (180 días)",
+  "fuente": "https://www.latercera.com/nacional/noticia/formalizan-por-fraude-al-alcalde-de-la-calera-johnny-piraino-por-uso-de-maquinaria-municipal-en-su-casa/",
+  "vigente": true
 }
 ]
