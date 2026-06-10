@@ -360,5 +360,18 @@
   "estado": "Leonelli en prisión preventiva (cárcel de Traiguén, junio 2026); Alarcón prófuga; investigación en curso",
   "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/caso-convenios-a-prision-preventiva-el-exjefe-de-gabinete-del/2026-06-05/120853.html",
   "vigente": true
+},{
+  "id": "bienes-nacionales-arica",
+  "nombre": "Caso Bienes Nacionales / Red de corrupción en Arica",
+  "anio": 2025,
+  "tipo": "Asociación ilícita / cohecho / soborno / lavado de activos",
+  "categoria": "corrupcion",
+  "sector": "institucional",
+  "partidos": ["Funcionarios públicos"],
+  "involucrados": ["Paula Álvarez Olivares", "Christopher Malebrán Hidalgo", "Carlos Falcón Arredondo", "Carlos Valdera Medina", "Carolina Cuadra Oliveros"],
+  "resumen": "En septiembre de 2025, un megaoperativo de la Brigada de Delitos Económicos de la PDI y la Fiscalía Regional de Arica y Parinacota —con cerca de 100 detectives— desarticuló una red de corrupción enquistada en la Seremi de Bienes Nacionales y la Dirección de Obras Municipales de Arica. Fueron detenidas y formalizadas 10 personas: cuatro funcionarios activos de la Seremi, un funcionario de la DOM, tres exfuncionarios y dos consultores privados. La investigación, que se extendió por casi tres años a partir de denuncias internas y ciudadanas, estableció que desde 2021 los imputados se organizaron con roles definidos para recibir sobornos a cambio de agilizar trámites, entregar información confidencial y manipular la entrega de concesiones, arriendos y ventas de terrenos fiscales a particulares por cuantiosas sumas de dinero. Exfuncionarios como Christopher Malebrán ofrecían servicios de topografía a usuarios de la Seremi, cuyos volantes se repartían dentro de la propia repartición. Se incautaron además 25 armas de fuego. La propia Seremi confirmó que la denuncia se originó desde el secretario regional, en coordinación con las autoridades ministeriales.",
+  "estado": "10 formalizados por asociación ilícita, cohecho, soborno y lavado de activos (septiembre 2025); cautelares dictadas; investigación en curso",
+  "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/corrupcion-en-bienes-nacionales-de-arica-cinco-detenidos-en/2025-09-03/101538.html",
+  "vigente": true
 }
 ]
