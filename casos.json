@@ -347,5 +347,18 @@
     "estado": "Formalizado junio 2026; arraigo nacional y firma mensual; investigación en curso (180 días)",
     "fuente": "https://www.latercera.com/nacional/noticia/formalizan-por-fraude-al-alcalde-de-la-calera-johnny-piraino-por-uso-de-maquinaria-municipal-en-su-casa/",
     "vigente": true
-  }
+  },{
+  "id": "convenios-araucania",
+  "nombre": "Caso Convenios / Arista Araucanía (Leonelli-Rivas)",
+  "anio": 2024,
+  "tipo": "Fraude al fisco reiterado",
+  "categoria": "corrupcion",
+  "sector": "derecha",
+  "partidos": ["Independiente (vinculado a Evópoli/Chile Vamos)"],
+  "involucrados": ["Juan Pablo Leonelli Lepín", "Luciano Rivas Stepke", "Susan Alarcón"],
+  "resumen": "Juan Pablo Leonelli Lepín, exjefe de gabinete del gobernador de La Araucanía Luciano Rivas (Ind-Evópoli), fue formalizado por fraude al fisco reiterado en dos aristas del caso Convenios. En la arista 'Manicure', se le imputa el desvío de más de $730 millones traspasados a las fundaciones Folab y Educc para capacitaciones de peluquería y manicure que nunca se realizaron. En la arista 'Fundación Local', se investiga el desvío de más de $2.000 millones desde el GORE a una fundación reactivada e importada desde Valparaíso que operó como vehículo para drenar recursos regionales. En declaración ante la Fiscalía, Leonelli señaló que 'el gobernador estaba al tanto y autorizaba todo'. La exjefa de división del GORE Susan Alarcón se encuentra prófuga. En junio de 2026, el Juzgado de Garantía de Temuco revocó el arresto domiciliario de Leonelli y decretó nuevamente su prisión preventiva tras ser sorprendido conduciendo en estado de ebriedad —provocando un choque frontal en la ruta Freire-Villarrica—, no presentarse a una audiencia clave y acumular reiterados incumplimientos de cautelares. Fue enviado a la cárcel de Traiguén.",
+  "estado": "Leonelli en prisión preventiva (cárcel de Traiguén, junio 2026); Alarcón prófuga; investigación en curso",
+  "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/caso-convenios-a-prision-preventiva-el-exjefe-de-gabinete-del/2026-06-05/120853.html",
+  "vigente": true
+}
 ]
