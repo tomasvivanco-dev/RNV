@@ -6,8 +6,14 @@
     "tipo": "Pagos irregulares a funcionarios",
     "categoria": "corrupcion",
     "sector": "centroizquierda",
-    "partidos": ["Concertación"],
-    "involucrados": ["Carlos Cruz", "Sergio Cortés", "varios ministros"],
+    "partidos": [
+      "Concertación"
+    ],
+    "involucrados": [
+      "Carlos Cruz",
+      "Sergio Cortés",
+      "varios ministros"
+    ],
     "resumen": "Pagos paralelos a funcionarios públicos a través de la consultora GATE, asociada al Ministerio de Obras Públicas, durante los gobiernos de Frei y Lagos. Derivó en el caso 'Sobresueldos': pagos extra a ministros y autoridades fuera del presupuesto formal, financiados con fondos del MOP.",
     "estado": "Condenas y absoluciones diversas",
     "fuente": "https://es.wikipedia.org/wiki/Caso_MOP-GATE"
@@ -19,8 +25,15 @@
     "tipo": "Malversación / financiamiento político",
     "categoria": "corrupcion",
     "sector": "centroizquierda",
-    "partidos": ["PPD", "PS", "PRSD"],
-    "involucrados": ["Subsecretaría de Deportes", "operadores políticos regionales"],
+    "partidos": [
+      "PPD",
+      "PS",
+      "PRSD"
+    ],
+    "involucrados": [
+      "Subsecretaría de Deportes",
+      "operadores políticos regionales"
+    ],
     "resumen": "Uso irregular de fondos públicos del Instituto Nacional del Deporte (Chiledeportes) destinados a clubes y organizaciones inexistentes, en parte para financiar campañas políticas de la Concertación. Marcó el inicio del gobierno de Bachelet I.",
     "estado": "Condenas a operadores; sin alcanzar a parlamentarios",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Chiledeportes"
@@ -32,11 +45,100 @@
     "tipo": "Uso de información privilegiada",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["RN", "Independiente"],
-    "involucrados": ["Sebastián Piñera", "Juan José Cueto", "LAN Airlines"],
+    "partidos": [
+      "RN",
+      "Independiente"
+    ],
+    "involucrados": [
+      "Sebastián Piñera",
+      "Juan José Cueto",
+      "LAN Airlines"
+    ],
     "resumen": "En julio de 2006 el entonces senador y empresario Sebastián Piñera compró acciones de LAN —empresa de la que era director— días antes de que se publicaran sus resultados financieros, que dispararon el precio de la acción. En julio de 2007 la Superintendencia de Valores y Seguros (SVS) lo sancionó con una multa de $363 millones por infringir el 'deber de abstención' de operar en posesión de información privilegiada; Piñera pagó la multa sin apelar. En 2018, el libro 'Piñera y los leones de Sanhattan' del periodista Sergio Jara reveló la existencia de grabaciones que apuntarían al uso efectivo de esa información, una figura más grave que la SVS había descartado por no poder acreditarla en su momento.",
     "estado": "Multa administrativa pagada (2007); causa penal nunca abierta; Piñera fallecido en febrero de 2024",
     "fuente": "https://www.latercera.com/politica/noticia/caso-pinera-lan-la-grabacion-la-svs-desecho/308895/"
+  },
+  {
+    "id": "colusion-farmacias",
+    "nombre": "Colusión de las farmacias",
+    "anio": 2008,
+    "tipo": "Colusión de precios / atentado contra la libre competencia",
+    "categoria": "delito-economico",
+    "sector": "empresarial",
+    "partidos": [
+      "Sector privado"
+    ],
+    "involucrados": [
+      "Farmacias Ahumada (FASA)",
+      "Cruz Verde",
+      "Salcobrand"
+    ],
+    "resumen": "Las tres mayores cadenas de farmacias de Chile —FASA, Cruz Verde y Salcobrand— se coludieron para alzar coordinadamente los precios de al menos 206 medicamentos entre diciembre de 2007 y marzo de 2008, mediante un esquema denominado «1-2-3» en el que una cadena subía primero y las otras seguían en días sucesivos. La Fiscalía Nacional Económica presentó requerimiento en 2008. En enero de 2012 el TDLC condenó a Cruz Verde y Salcobrand a la multa máxima de 20.000 UTA cada una (cerca de US9 millones). FASA quedó exenta tras delatar el cartel y pagar US millón en acuerdo conciliatorio. La Corte Suprema confirmó las condenas en septiembre de 2012, señalando que «el interés económico se sobrepuso a la dignidad humana, a la vida y a la salud de las personas». Fue el primer gran caso de colusión que impactó la opinión pública chilena.",
+    "estado": "Condenas firmes (Corte Suprema, 2012); multas pagadas; demanda colectiva del Sernac en tramitación",
+    "fuente": "https://www.tdlc.cl/tdlc-condena-a-farmacias-cruz-verde-s-a-y-salcobrand-s-a-por-colusion-en-el-mercado-de-distribuion-de-productos-farmaceuticos/"
+  },
+  {
+    "id": "colusion-pollos",
+    "nombre": "Colusión de los pollos",
+    "anio": 2011,
+    "tipo": "Colusión de producción y precios / atentado contra la libre competencia",
+    "categoria": "delito-economico",
+    "sector": "empresarial",
+    "partidos": [
+      "Sector privado"
+    ],
+    "involucrados": [
+      "Agrosuper",
+      "Aristía",
+      "Don Pollo",
+      "Gonzalo Vial Vial"
+    ],
+    "resumen": "Las tres principales productoras avícolas de Chile —Agrosuper (controlada por Gonzalo Vial Vial), Aristía y Don Pollo— coordinaron cuotas de producción y precios de venta de carne de pollo entre 1994 y 2011, abarcando cerca del 90% del mercado nacional. El TDLC acreditó que las empresas utilizaron modelos econométricos de proyección para repartirse el mercado y evitar la competencia. La Corte Suprema confirmó la condena. El caso cobró nueva relevancia cuando se reveló que la consultora Quiroz y Asociados, del actual ministro de Hacienda Jorge Quiroz, había elaborado los modelos económicos citados en la sentencia del TDLC como herramientas del esquema colusorio.",
+    "estado": "Condena firme del TDLC, confirmada por Corte Suprema; empresas multadas",
+    "fuente": "https://es.wikipedia.org/wiki/Colusi%C3%B3n_de_pollos_en_Chile"
+  },
+  {
+    "id": "la-polar",
+    "nombre": "Caso La Polar",
+    "anio": 2011,
+    "tipo": "Fraude al mercado de valores / repactaciones unilaterales / lavado de activos",
+    "categoria": "delito-economico",
+    "sector": "empresarial",
+    "partidos": [
+      "Sector privado"
+    ],
+    "involucrados": [
+      "Pablo Alcalde",
+      "Julián Moreno",
+      "María Isabel Farah",
+      "Nicolás Ramírez",
+      "Pablo Fuenzalida"
+    ],
+    "resumen": "En junio de 2011, la multitienda La Polar reconoció haber repactado unilateralmente y sin consentimiento las deudas de más de 400.000 clientes entre 2006 y 2011, inflando artificialmente su cartera de créditos y entregando información falsa al mercado. El día de la revelación, la acción cayó 42% y la empresa perdió US70 millones de capitalización bursátil. Los fondos de pensiones sufrieron pérdidas estimadas entre US1 y US4 millones. En diciembre de 2015, los exejecutivos Pablo Alcalde (expresidente del directorio), María Isabel Farah y Julián Moreno fueron condenados a 5 años de presidio por entrega de información falsa al mercado y lavado de activos, cumpliendo la pena en libertad vigilada. En 2024, la Corte de Apelaciones condenó a los exejecutivos a pagar más de US00 millones a AFP Provida; la Corte Suprema confirmó la sentencia en marzo de 2026.",
+    "estado": "Condenas penales cumplidas en libertad vigilada; condena civil de US00 millones confirmada por Corte Suprema (2026)",
+    "fuente": "https://es.wikipedia.org/wiki/Caso_La_Polar"
+  },
+  {
+    "id": "cascadas-sqm",
+    "nombre": "Caso Cascadas / SQM (Ponce Lerou)",
+    "anio": 2013,
+    "tipo": "Manipulación bursátil / perjuicio a accionistas minoritarios",
+    "categoria": "delito-economico",
+    "sector": "empresarial",
+    "partidos": [
+      "Sector privado"
+    ],
+    "involucrados": [
+      "Julio Ponce Lerou",
+      "Roberto Guzmán Lyon",
+      "Alberto Le Blanc Matthaei",
+      "Aldo Motta Camp",
+      "Patricio Contesse",
+      "LarrainVial Corredora de Bolsa"
+    ],
+    "resumen": "Julio Ponce Lerou —exyerno de Pinochet y controlador de SQM— operó entre 2009 y 2011 un esquema de compraventas de acciones a través de sociedades «cascada» que controlaban el 32% de SQM, beneficiándose a sí mismo y a personas cercanas en desmedro de los accionistas minoritarios, entre ellos fondos de pensiones (AFP). La SVS lo multó en septiembre de 2014 con la mayor sanción de la historia del mercado chileno: 1.700.000 UF (US4 millones). Sin embargo, el Tribunal Constitucional rebajó la multa a 75.000 UF (US,3 millones), decisión ratificada por la Corte Suprema en 2020. El máximo tribunal confirmó la existencia del esquema ilegal, pero la multa efectiva quedó reducida a una fracción del perjuicio causado. Los fondos de pensiones perdieron entre US1 y US4 millones.",
+    "estado": "Esquema ilegal confirmado por Corte Suprema (2020); multa rebajada por TC a US,3 millones; causa cerrada",
+    "fuente": "https://es.wikipedia.org/wiki/Caso_Cascadas"
   },
   {
     "id": "penta",
@@ -45,8 +147,17 @@
     "tipo": "Financiamiento ilegal de la política",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["UDI"],
-    "involucrados": ["Carlos Alberto Délano", "Carlos Eugenio Lavín", "Pablo Zalaquett", "Jovino Novoa", "Iván Moreira", "Laurence Golborne"],
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Carlos Alberto Délano",
+      "Carlos Eugenio Lavín",
+      "Pablo Zalaquett",
+      "Jovino Novoa",
+      "Iván Moreira",
+      "Laurence Golborne"
+    ],
     "resumen": "Esquema de boletas ideológicamente falsas mediante el cual el grupo empresarial Penta financió de forma irregular a candidatos y operadores de la UDI. Abrió la caja de Pandora del financiamiento ilegal en Chile. Penta pagó cerca de $10.000 millones en impuestos adeudados.",
     "estado": "Sobreseído por prescripción; pagos al fisco",
     "fuente": "https://www.df.cl/aniversario/penta-sqm-corpesca-y-el-financiamiento-ilegal-de-la-politica"
@@ -58,8 +169,18 @@
     "tipo": "Vínculos de autoridad política con colusión empresarial",
     "categoria": "controversia",
     "sector": "derecha",
-    "partidos": ["Independiente (gabinete Kast)", "Partido Republicano"],
-    "involucrados": ["Jorge Quiroz", "Quiroz & Asociados", "Agrosuper", "Aristía", "Don Pollo", "Salcobrand"],
+    "partidos": [
+      "Independiente (gabinete Kast)",
+      "Partido Republicano"
+    ],
+    "involucrados": [
+      "Jorge Quiroz",
+      "Quiroz & Asociados",
+      "Agrosuper",
+      "Aristía",
+      "Don Pollo",
+      "Salcobrand"
+    ],
     "resumen": "El actual ministro de Hacienda Jorge Quiroz —designado por el presidente José Antonio Kast en enero de 2026— es mencionado reiteradamente en la sentencia del TDLC sobre la colusión de los pollos (2014): su consultora Quiroz & Asociados figura en el fallo como autora de los modelos económicos de proyección que Agrosuper, Aristía y Don Pollo utilizaron para repartirse cuotas de producción y coordinar precios entre 1994 y 2011. Su oficina también asesoró a Salcobrand durante la colusión de las farmacias, sosteniendo que no había acuerdo de precios; la farmacia fue finalmente condenada. Quiroz no fue imputado penalmente y niega haber diseñado los modelos colusorios. La controversia resurgió en la campaña presidencial de 2025 y al asumir Hacienda en marzo de 2026.",
     "estado": "Empresas condenadas por TDLC y Corte Suprema; Quiroz sin imputación penal, en ejercicio como ministro de Hacienda",
     "fuente": "https://interferencia.cl/articulos/kast-defiende-el-rol-en-la-colusion-de-los-pollos-de-su-asesor-economico-jorge-quiroz",
@@ -72,8 +193,23 @@
     "tipo": "Financiamiento ilegal transversal",
     "categoria": "corrupcion",
     "sector": "transversal",
-    "partidos": ["UDI", "RN", "PPD", "PS", "DC", "PRSD", "Independientes"],
-    "involucrados": ["Julio Ponce Lerou", "Patricio Contesse", "Pablo Longueira", "Marco Enríquez-Ominami", "Fulvio Rossi", "Pablo Wagner"],
+    "partidos": [
+      "UDI",
+      "RN",
+      "PPD",
+      "PS",
+      "DC",
+      "PRSD",
+      "Independientes"
+    ],
+    "involucrados": [
+      "Julio Ponce Lerou",
+      "Patricio Contesse",
+      "Pablo Longueira",
+      "Marco Enríquez-Ominami",
+      "Fulvio Rossi",
+      "Pablo Wagner"
+    ],
     "resumen": "SQM (Soquimich), controlada por el exyerno de Pinochet Julio Ponce Lerou, financió campañas y políticos de todo el espectro mediante boletas y facturas ideológicamente falsas. Es el caso de financiamiento irregular más amplio y transversal de la historia reciente de Chile.",
     "estado": "Mayoría sobreseído; algunas condenas",
     "fuente": "https://es.wikipedia.org/wiki/Caso_SQM"
@@ -85,8 +221,16 @@
     "tipo": "Tráfico de influencias / uso de información privilegiada",
     "categoria": "corrupcion",
     "sector": "centroizquierda",
-    "partidos": ["PS", "Nueva Mayoría"],
-    "involucrados": ["Sebastián Dávalos", "Natalia Compagnon", "Mauricio Valero", "Juan Díaz"],
+    "partidos": [
+      "PS",
+      "Nueva Mayoría"
+    ],
+    "involucrados": [
+      "Sebastián Dávalos",
+      "Natalia Compagnon",
+      "Mauricio Valero",
+      "Juan Díaz"
+    ],
     "resumen": "La empresa Caval, ligada a la nuera de la presidenta Michelle Bachelet, obtuvo un crédito de US$10 millones del Banco de Chile —tras una reunión con Andrónico Luksic— para comprar terrenos en Machalí cuyo plan regulador cambió favorablemente, generando una ganancia millonaria. Afectó gravemente al segundo gobierno de Bachelet.",
     "estado": "Compagnon condenada por delitos tributarios; Dávalos sobreseído",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Caval"
@@ -98,8 +242,15 @@
     "tipo": "Cohecho legislativo",
     "categoria": "corrupcion",
     "sector": "transversal",
-    "partidos": ["UDI", "PPD"],
-    "involucrados": ["Jaime Orpis", "Marta Isasi", "Francisco Mujica"],
+    "partidos": [
+      "UDI",
+      "PPD"
+    ],
+    "involucrados": [
+      "Jaime Orpis",
+      "Marta Isasi",
+      "Francisco Mujica"
+    ],
     "resumen": "El senador UDI Jaime Orpis recibió pagos mensuales de la pesquera Corpesca (grupo Angelini) por años, a cambio de favorecer la Ley de Pesca de 2012. La diputada Marta Isasi también recibió pagos. Caso emblemático de cohecho legislativo en la tramitación de una ley.",
     "estado": "Orpis condenado a 5 años efectivos por cohecho, fraude al fisco y delitos tributarios (2020)",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Corpesca"
@@ -111,11 +262,34 @@
     "tipo": "Fraude al fisco en el Ejército",
     "categoria": "corrupcion",
     "sector": "institucional",
-    "partidos": ["FFAA"],
-    "involucrados": ["Oficiales y suboficiales del Ejército de Chile", "Juan Miguel Fuente-Alba"],
+    "partidos": [
+      "FFAA"
+    ],
+    "involucrados": [
+      "Oficiales y suboficiales del Ejército de Chile",
+      "Juan Miguel Fuente-Alba"
+    ],
     "resumen": "Red de oficiales del Ejército que desvió fondos provenientes de la Ley Reservada del Cobre para uso personal mediante facturas falsas. El excomandante en jefe Juan Miguel Fuente-Alba fue procesado por enriquecimiento ilícito.",
     "estado": "Múltiples condenas; proceso en curso a Fuente-Alba",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Milicogate"
+  },
+  {
+    "id": "colusion-tissue",
+    "nombre": "Colusión del papel tissue",
+    "anio": 2015,
+    "tipo": "Colusión de precios y cuotas de mercado",
+    "categoria": "delito-economico",
+    "sector": "empresarial",
+    "partidos": [
+      "Sector privado"
+    ],
+    "involucrados": [
+      "CMPC Tissue (Grupo Matte)",
+      "SCA Chile / Essity (ex PISA)"
+    ],
+    "resumen": "CMPC Tissue (del grupo Matte, marcas Confort, Elite, Nova) y SCA Chile (hoy Essity, marcas Favorita y Magiklin) se coludieron entre 2000 y 2011 para asignarse cuotas de participación de mercado y fijar precios de venta de papel higiénico, toallas, servilletas y pañuelos desechables. Juntas controlaban el 90% del mercado con ventas anuales de US00 millones. El TDLC condenó a SCA a la multa máxima y eximió a CMPC por delación compensada. En enero de 2020, la Corte Suprema revocó el beneficio de CMPC y condenó a ambas a pagar 20.000 UTA cada una (más de US5 millones), señalando que CMPC había coaccionado a SCA para participar en el cartel. CMPC ofreció una compensación voluntaria de .000 por persona a los consumidores afectados.",
+    "estado": "Condenas firmes (Corte Suprema, 2020); multas de US5 millones a cada empresa; compensación a consumidores ejecutada",
+    "fuente": "https://es.wikipedia.org/wiki/Colusi%C3%B3n_del_papel_higi%C3%A9nico_en_Chile"
   },
   {
     "id": "pacogate",
@@ -124,8 +298,12 @@
     "tipo": "Fraude al fisco institucional",
     "categoria": "corrupcion",
     "sector": "institucional",
-    "partidos": ["Carabineros"],
-    "involucrados": ["Oficiales y suboficiales de Carabineros de Chile"],
+    "partidos": [
+      "Carabineros"
+    ],
+    "involucrados": [
+      "Oficiales y suboficiales de Carabineros de Chile"
+    ],
     "resumen": "Mayor fraude institucional de la historia de Chile: cerca de $28.000 millones desviados de los fondos de Carabineros mediante transferencias y rendiciones falsas durante años. Involucró a decenas de oficiales y funcionarios.",
     "estado": "Múltiples condenas; investigación ampliada",
     "fuente": "https://es.wikipedia.org/wiki/Fraude_en_Carabineros_de_Chile"
@@ -137,8 +315,13 @@
     "tipo": "Malversación municipal",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["UDI"],
-    "involucrados": ["Virginia Reginato", "Funcionarios municipales de Viña del Mar"],
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Virginia Reginato",
+      "Funcionarios municipales de Viña del Mar"
+    ],
     "resumen": "La exalcaldesa de Viña del Mar Virginia Reginato (UDI) es investigada por malversación de cerca de $100.000 millones a través de horas extras irregulares pagadas a funcionarios municipales durante su gestión. Una de las mayores investigaciones por fraude municipal en Chile.",
     "estado": "Investigación vigente; formalizaciones en curso",
     "fuente": "https://www.elclarin.cl/2024/05/18/corrupcion-municipal-la-udi-encabeza-la-lista-de-casos-en-chile/"
@@ -150,8 +333,15 @@
     "tipo": "Fraude al fisco",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["Independiente (vinculada a RN, luego bancada UDI)"],
-    "involucrados": ["Karen Rojo Venegas", "Edgardo Vergara", "Main Comunicaciones", "José Miguel Izquierdo"],
+    "partidos": [
+      "Independiente (vinculada a RN, luego bancada UDI)"
+    ],
+    "involucrados": [
+      "Karen Rojo Venegas",
+      "Edgardo Vergara",
+      "Main Comunicaciones",
+      "José Miguel Izquierdo"
+    ],
     "resumen": "La exalcaldesa de Antofagasta Karen Rojo (independiente, exseremi de Salud del primer gobierno de Piñera, incorporada a la bancada de alcaldes UDI en 2019) fue condenada en enero de 2021 a 5 años y un día de presidio efectivo más inhabilitación perpetua para derechos políticos por fraude al fisco. El caso, conocido como 'Caso Main', acreditó que entre octubre de 2015 y agosto de 2016 contrató con fondos de la Corporación Municipal de Desarrollo Social los servicios de la agencia Main Comunicaciones de José Miguel Izquierdo —incluyendo encuestas Cadem— para reposicionar su imagen de cara a las elecciones municipales de 2016. Fue suspendida en julio de 2020 y renunció en noviembre. La Corte Suprema confirmó la condena el 23 de marzo de 2022; ese mismo día Rojo abordó un vuelo a Ámsterdam y se mantuvo prófuga hasta julio de 2022, cuando fue detenida en Países Bajos. El Tribunal de Rotterdam admitió la solicitud de extradición chilena en marzo de 2023. También fue condenado el exsecretario ejecutivo de la Corporación Municipal Edgardo Vergara (3 años y un día de libertad vigilada).",
     "estado": "Condena firme (5 años efectivos); cumpliéndola en cárcel de Utrecht, Países Bajos; proceso de extradición a Chile activo",
     "fuente": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/ex-alcaldesa-karen-rojo-condenada-a-cinco-anos-de-carcel-por-fraude-al/2022-03-24/135330.html"
@@ -163,8 +353,13 @@
     "tipo": "Fraude / endeudamiento municipal irregular",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["UDI"],
-    "involucrados": ["Cathy Barriga", "Funcionarios de la Municipalidad de Maipú"],
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Cathy Barriga",
+      "Funcionarios de la Municipalidad de Maipú"
+    ],
     "resumen": "La exalcaldesa de Maipú Cathy Barriga (UDI) dejó un déficit municipal cercano a los $31.000 millones, atribuido a contrataciones irregulares, eventos masivos sin financiamiento y compromisos financieros sin respaldo presupuestario. Formalizada por fraude al fisco.",
     "estado": "Formalizada; investigación en curso",
     "fuente": "https://www.elclarin.cl/2024/05/18/corrupcion-municipal-la-udi-encabeza-la-lista-de-casos-en-chile/",
@@ -177,8 +372,12 @@
     "tipo": "Vínculos con narcotráfico",
     "categoria": "corrupcion",
     "sector": "centroizquierda",
-    "partidos": ["PS"],
-    "involucrados": ["Miguel Ángel Aguilera"],
+    "partidos": [
+      "PS"
+    ],
+    "involucrados": [
+      "Miguel Ángel Aguilera"
+    ],
     "resumen": "El exalcalde de San Ramón Miguel Ángel Aguilera (PS) fue investigado y procesado por sus vínculos con el narcotráfico que operaba en la comuna. Marcó el ingreso del término 'narcopolítica' al debate público chileno.",
     "estado": "Prisión preventiva; investigación abierta",
     "fuente": "https://www.elmostrador.cl/noticias/pais/2023/01/16/udi-lidera-ranking-de-corrupcion-de-partidos-politicos-seguido-de-cerca-por-renovacion-nacional/"
@@ -190,8 +389,16 @@
     "tipo": "Fraude municipal / falsificación de instrumento público",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["RN", "Partido Republicano"],
-    "involucrados": ["Felipe Alessandri", "Juan Francisco García Mac-Iver", "Agustín Romero Leiva", "José Ignacio Labbé Martínez"],
+    "partidos": [
+      "RN",
+      "Partido Republicano"
+    ],
+    "involucrados": [
+      "Felipe Alessandri",
+      "Juan Francisco García Mac-Iver",
+      "Agustín Romero Leiva",
+      "José Ignacio Labbé Martínez"
+    ],
     "resumen": "El 1 de octubre de 2021 la Municipalidad de Santiago, bajo la alcaldía de Irací Hassler (PC), presentó ante el 7° Juzgado de Garantía una querella por fraude a la municipalidad y falsificación de instrumento público contra tres funcionarios de la administración del ex alcalde Felipe Alessandri (RN, 2016-2021): el ex administrador municipal Juan Francisco García Mac-Iver, el ex director jurídico Agustín Romero (hoy diputado del Partido Republicano) y el ex jefe de gabinete José Ignacio Labbé. Entre 2017 y 2021, los tres percibieron $147.286.101 por trabajos extraordinarios en sábados, domingos y festivos; los registros del Departamento de Seguridad Interna del propio municipio muestran que en muchas de esas fechas no ingresaron a las dependencias. Alessandri no fue querellado. En diciembre de 2024, el nuevo alcalde Mario Desbordes (RN) acordó con Romero suspender por 60 días el cobro civil municipal, que con intereses y costas escaló a cerca de $1.000 millones.",
     "estado": "Querella admitida; investigación de Fiscalía Centro Norte; cobro civil suspendido en diciembre 2024",
     "fuente": "https://www.latercera.com/la-tercera-pm/noticia/hassler-vs-alessandri-municipio-de-santiago-se-querella-en-contra-de-tres-exfuncionarios-por-fraude-en-horas-extras/2V5XYEGDGZALPFE74FMZ4PRJTQ/",
@@ -204,8 +411,16 @@
     "tipo": "Conflicto de intereses / paraísos fiscales",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["RN", "Independiente"],
-    "involucrados": ["Sebastián Piñera", "Carlos Alberto Délano", "Minera Dominga", "Andes Iron"],
+    "partidos": [
+      "RN",
+      "Independiente"
+    ],
+    "involucrados": [
+      "Sebastián Piñera",
+      "Carlos Alberto Délano",
+      "Minera Dominga",
+      "Andes Iron"
+    ],
     "resumen": "En octubre de 2021, la investigación 'Pandora Papers' del ICIJ —con participación de CIPER y LaBot en Chile— reveló que en 2010 las familias Piñera y Délano cerraron en las Islas Vírgenes Británicas la compraventa de Minera Dominga por US$152 millones. Una cláusula del contrato condicionaba el último pago a que no hubiera cambios regulatorios que afectaran el proyecto minero-portuario en La Higuera —decisión que dependía del propio Piñera, recién asumido como presidente. La oposición presentó acusación constitucional por infracción al principio de probidad: fue aprobada en la Cámara de Diputados (78 votos a favor) y rechazada en el Senado al no alcanzar los dos tercios. La Fiscalía Nacional abrió investigación de oficio por eventuales delitos tributarios, cohecho y soborno.",
     "estado": "Acusación constitucional rechazada en Senado; investigación penal cerrada tras fallecimiento de Piñera (feb 2024)",
     "fuente": "https://www.ciperchile.cl/2021/10/03/pandora-papers-familias-pinera-y-delano-sellaron-millonaria-compraventa-de-minera-dominga-en-islas-virgenes-britanicas/"
@@ -217,8 +432,13 @@
     "tipo": "Cohecho / lavado de activos",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["RN"],
-    "involucrados": ["Raúl Torrealba", "Equipo municipal de Vitacura"],
+    "partidos": [
+      "RN"
+    ],
+    "involucrados": [
+      "Raúl Torrealba",
+      "Equipo municipal de Vitacura"
+    ],
     "resumen": "El exalcalde de Vitacura Raúl Torrealba (RN) fue investigado por cohecho, lavado de activos y delitos tributarios vinculados a contratos municipales. Caso que destapó nuevas formas de corrupción municipal en comunas acomodadas.",
     "estado": "Formalizado; investigación en curso",
     "fuente": "https://es.wikipedia.org/wiki/Corrupci%C3%B3n_en_Chile"
@@ -230,8 +450,13 @@
     "tipo": "Gastos electorales irregulares",
     "categoria": "corrupcion",
     "sector": "izquierda",
-    "partidos": ["Comunes"],
-    "involucrados": ["Karina Oliva", "Equipo de campaña"],
+    "partidos": [
+      "Comunes"
+    ],
+    "involucrados": [
+      "Karina Oliva",
+      "Equipo de campaña"
+    ],
     "resumen": "La excandidata a gobernadora regional metropolitana Karina Oliva (Comunes) fue investigada por gastos electorales irregulares y boletas ideológicamente falsas en su campaña. Caso emblemático que también alcanzó al Frente Amplio.",
     "estado": "Formalizada; juicio en curso",
     "fuente": "https://www.elmostrador.cl/noticias/pais/2023/01/16/udi-lidera-ranking-de-corrupcion-de-partidos-politicos-seguido-de-cerca-por-renovacion-nacional/"
@@ -243,8 +468,16 @@
     "tipo": "Convenios irregulares con fundaciones",
     "categoria": "corrupcion",
     "sector": "izquierda",
-    "partidos": ["Revolución Democrática", "Frente Amplio"],
-    "involucrados": ["Carlos Contreras", "Daniel Andrade", "Catalina Pérez", "Seremi Vivienda Antofagasta"],
+    "partidos": [
+      "Revolución Democrática",
+      "Frente Amplio"
+    ],
+    "involucrados": [
+      "Carlos Contreras",
+      "Daniel Andrade",
+      "Catalina Pérez",
+      "Seremi Vivienda Antofagasta"
+    ],
     "resumen": "Estalló en junio de 2023 al destaparse traspasos irregulares por $426 millones desde la Seremi de Vivienda de Antofagasta a la fundación Democracia Viva, ligada al exdiputado Daniel Andrade (pareja de la entonces diputada Catalina Pérez, RD). Abrió investigaciones a más de 50 fundaciones en todo Chile.",
     "estado": "Formalizaciones múltiples; investigación expandida a más de 50 fundaciones",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Convenios",
@@ -257,8 +490,14 @@
     "tipo": "Malversación de caudales públicos / lavado de activos",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["UDI"],
-    "involucrados": ["José Luis Yáñez Maldonado", "Belén Carrasco", "Sixto Carrasco"],
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "José Luis Yáñez Maldonado",
+      "Belén Carrasco",
+      "Sixto Carrasco"
+    ],
     "resumen": "El exalcalde de Algarrobo José Luis Yáñez (UDI, 2016-2023) fue detenido en noviembre de 2023 y formalizado por malversación de caudales públicos y cohecho, tras destaparse un desfalco municipal cercano a los $1.069 millones. El esquema, ejecutado entre marzo de 2022 y noviembre de 2023, operó mediante la alteración sistemática de nóminas de pago de la tesorería municipal —a cargo de Belén Carrasco, expareja del alcalde y extesorera—, transfiriendo fondos a testaferros que luego devolvían el dinero en efectivo reteniendo cerca del 10% como comisión. La investigación reveló además la compra de cuatro propiedades por US$90.000 en el estado de Florida y operaciones en criptomonedas para lavar los fondos. En diciembre de 2025, el Tribunal de Juicio Oral en lo Penal de San Antonio lo condenó como autor de malversación y lavado de activos por un monto acreditado de $1.054 millones; la Fiscalía pidió 12 años de cárcel.",
     "estado": "Veredicto condenatorio diciembre 2025; Yáñez en prisión preventiva; Belén Carrasco en arresto domiciliario; pena pendiente de lectura",
     "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/condenan-a-exalcalde-de-algarrobo-por-fraude-de-mas-de-mil-millones-y/2025-12-24/003850.html",
@@ -271,8 +510,15 @@
     "tipo": "Fraude al fisco con fundación",
     "categoria": "corrupcion",
     "sector": "izquierda",
-    "partidos": ["Frente Amplio", "PS"],
-    "involucrados": ["Alberto Larraín", "Miguel Crispi", "Óscar Crisóstomo"],
+    "partidos": [
+      "Frente Amplio",
+      "PS"
+    ],
+    "involucrados": [
+      "Alberto Larraín",
+      "Miguel Crispi",
+      "Óscar Crisóstomo"
+    ],
     "resumen": "Arista mayor del Caso Convenios: la fundación ProCultura, dirigida por el psiquiatra Alberto Larraín (cercano al presidente Boric), obtuvo más de 60 convenios con el Estado por sobre $6.000 millones. Investigada por posible financiamiento irregular de la campaña presidencial de Boric. ProCultura cerró en noviembre de 2023.",
     "estado": "Investigación activa; sin formalizados al 2025",
     "fuente": "https://www.infobae.com/america/america-latina/2025/05/18/procultura-el-caso-que-provoco-un-escandalo-politico-en-chile-y-salpico-al-presidente-gabriel-boric/",
@@ -285,8 +531,18 @@
     "tipo": "Cohecho / tráfico de influencias",
     "categoria": "corrupcion",
     "sector": "transversal",
-    "partidos": ["UDI", "RN", "transversal"],
-    "involucrados": ["Luis Hermosilla", "Andrés Chadwick", "Marcela Cubillos", "Manuel Guerra", "Ministros Corte Suprema"],
+    "partidos": [
+      "UDI",
+      "RN",
+      "transversal"
+    ],
+    "involucrados": [
+      "Luis Hermosilla",
+      "Andrés Chadwick",
+      "Marcela Cubillos",
+      "Manuel Guerra",
+      "Ministros Corte Suprema"
+    ],
     "resumen": "CIPER reveló un audio donde el abogado Luis Hermosilla planificaba pagar coimas a funcionarios de Impuestos Internos. La filtración de sus chats destapó una red de operadores judiciales y políticos, salpicando a la Corte Suprema, exfiscales, exministros (Chadwick), exsecretarios de Estado (Cubillos) y figuras de la derecha. Mayor escándalo de captura institucional en años recientes.",
     "estado": "Hermosilla formalizado por cohecho y lavado de activos; investigación en expansión",
     "fuente": "https://www.ciperchile.cl/2024/04/20/redes-de-hermosilla-las-causas-judiciales-en-las-que-opero-con-o-sin-patrocinio-representando-a-clientes-vip/",
@@ -299,8 +555,12 @@
     "tipo": "Abuso de poder / delito sexual",
     "categoria": "corrupcion",
     "sector": "izquierda",
-    "partidos": ["PS"],
-    "involucrados": ["Manuel Monsalve"],
+    "partidos": [
+      "PS"
+    ],
+    "involucrados": [
+      "Manuel Monsalve"
+    ],
     "resumen": "El exsubsecretario del Interior Manuel Monsalve (PS) fue formalizado por violación y abuso sexual contra una subordinada. El caso golpeó al gobierno de Boric por el manejo institucional de la denuncia y las demoras en su salida del cargo.",
     "estado": "Formalizado en prisión preventiva",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Monsalve",
@@ -313,8 +573,13 @@
     "tipo": "Extorsión a funcionarios / uso indebido de bienes fiscales / falta a la probidad",
     "categoria": "corrupcion",
     "sector": "izquierda",
-    "partidos": ["Independiente (vinculada al Partido Ecologista Verde)"],
-    "involucrados": ["Krist Naranjo Peñaloza", "Karina Aguirre"],
+    "partidos": [
+      "Independiente (vinculada al Partido Ecologista Verde)"
+    ],
+    "involucrados": [
+      "Krist Naranjo Peñaloza",
+      "Karina Aguirre"
+    ],
     "resumen": "Krist Naranjo, primera gobernadora regional de Coquimbo (electa en 2021 como independiente con apoyo del Partido Ecologista Verde), enfrentó varios escándalos en cascada. Primero, en agosto de 2023 la Contraloría la suspendió por tres meses tras acreditar que en 2021 y 2022 usó el vehículo fiscal para traslados personales —compras en malls y supermercados— e incluso lo prestaba a su hijo para viajar a la universidad. En mayo de 2024, la Unidad de Investigación de Radio Bío Bío reveló que desde agosto de 2023 Naranjo habría exigido a sus funcionarios de confianza aportes mensuales de entre $50.000 y $500.000 de sus sueldos para financiar su campaña de reelección, bajo amenaza de despido; la administradora regional Karina Aguirre habría operado como recaudadora. La Fiscalía Nacional Anticorrupción, Carabineros y la Contraloría abrieron investigación tras la denuncia del diputado Juan Manuel Fuenzalida (UDI). Se sumaron además viajes a Egipto, México y Argentina sin justificación institucional. El 23 de agosto de 2024 el Tribunal Calificador de Elecciones (TRICEL) la destituyó por notable abandono de deberes y faltas graves a la probidad, inhabilitándola por cinco años para ejercer cargos públicos. La reemplazó como subrogante Wladimir Pleticosic (DC).",
     "estado": "Destituida por TRICEL (agosto 2024); inhabilitada 5 años; investigación penal por extorsión en curso",
     "fuente": "https://www.theclinic.cl/2024/05/17/gobernadora-de-coquimbo-es-acusada-de-extorsion-por-sus-propios-funcionarios/",
@@ -327,11 +592,40 @@
     "tipo": "Fraude al fisco reiterado",
     "categoria": "corrupcion",
     "sector": "derecha",
-    "partidos": ["Independiente (vinculado a Evópoli/Chile Vamos)"],
-    "involucrados": ["Juan Pablo Leonelli Lepín", "Luciano Rivas Stepke", "Susan Alarcón"],
+    "partidos": [
+      "Independiente (vinculado a Evópoli/Chile Vamos)"
+    ],
+    "involucrados": [
+      "Juan Pablo Leonelli Lepín",
+      "Luciano Rivas Stepke",
+      "Susan Alarcón"
+    ],
     "resumen": "Juan Pablo Leonelli Lepín, exjefe de gabinete del gobernador de La Araucanía Luciano Rivas (Ind-Evópoli), fue formalizado por fraude al fisco reiterado en dos aristas del caso Convenios. En la arista 'Manicure', se le imputa el desvío de más de $730 millones traspasados a las fundaciones Folab y Educc para capacitaciones de peluquería y manicure que nunca se realizaron. En la arista 'Fundación Local', se investiga el desvío de más de $2.000 millones desde el GORE a una fundación reactivada e importada desde Valparaíso que operó como vehículo para drenar recursos regionales. En declaración ante la Fiscalía, Leonelli señaló que 'el gobernador estaba al tanto y autorizaba todo'. La exjefa de división del GORE Susan Alarcón se encuentra prófuga. En junio de 2026, el Juzgado de Garantía de Temuco revocó el arresto domiciliario de Leonelli y decretó nuevamente su prisión preventiva tras ser sorprendido conduciendo en estado de ebriedad —provocando un choque frontal en la ruta Freire-Villarrica—, no presentarse a una audiencia clave y acumular reiterados incumplimientos de cautelares. Fue enviado a la cárcel de Traiguén.",
     "estado": "Leonelli en prisión preventiva (cárcel de Traiguén, junio 2026); Alarcón prófuga; investigación en curso",
     "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/caso-convenios-a-prision-preventiva-el-exjefe-de-gabinete-del/2026-06-05/120853.html",
+    "vigente": true
+  },
+  {
+    "id": "bienes-nacionales-arica",
+    "nombre": "Caso Bienes Nacionales / Red de corrupción en Arica",
+    "anio": 2025,
+    "tipo": "Asociación ilícita / cohecho / soborno / lavado de activos / prevaricación judicial",
+    "categoria": "corrupcion",
+    "sector": "institucional",
+    "partidos": [
+      "Funcionarios públicos"
+    ],
+    "involucrados": [
+      "Carlos Falcón Arredondo",
+      "Paula Álvarez Olivares",
+      "Christopher Malebrán Hidalgo",
+      "Carlos Valdera Medina",
+      "Carolina Cuadra Oliveros",
+      "Gonzalo Quiroz Espinoza (juez)"
+    ],
+    "resumen": "En septiembre de 2025, un megaoperativo de la Brigada de Delitos Económicos de la PDI y la Fiscalía Regional de Arica y Parinacota —con cerca de 100 detectives— desarticuló una red de corrupción enquistada en la Seremi de Bienes Nacionales y la Dirección de Obras Municipales de Arica. Fueron formalizadas 10 personas por asociación ilícita, cohecho y soborno: cuatro funcionarios activos de la Seremi, un funcionario de la DOM, tres exfuncionarios y dos consultores privados. La investigación, de casi tres años a partir de denuncias internas y ciudadanas, estableció que desde 2021 los imputados se organizaron con roles definidos para recibir sobornos a cambio de agilizar trámites, entregar información confidencial y manipular concesiones, arriendos y ventas de terrenos fiscales a particulares por cuantiosas sumas de dinero. Exfuncionarios como Christopher Malebrán ofrecían servicios de topografía a usuarios de la Seremi, cuyos volantes se repartían dentro de la propia repartición. En junio de 2026, El Mostrador reveló que un informe reservado de la PDI de febrero de 2024 vincula al juez titular del Segundo Juzgado de Letras de Arica, Gonzalo Quiroz Espinoza, con la red: escuchas telefónicas interceptadas registraron al magistrado coordinando con el consultor Carlos Falcón Arredondo y el abogado Luis Bardi para emitir un fallo favorable sobre deslindes de un predio de la Cooperativa Agrícola Valles Hermosos en el valle de Lluta, a sabiendas de que la superficie declarada era menor a la real. La PDI sugirió a la Fiscalía investigar al juez por prevaricación. La fiscal Paulina Brito se inhabilitó por amistad universitaria con el magistrado, y un segundo fiscal también se apartó por cercanía personal; la causa fue reasignada al fiscal jefe Rodrigo González Vega. El Consejo de Defensa del Estado expresó molestia por la demora en la investigación de esta arista y por el cierre de la causa principal sin atender sus diligencias.",
+    "estado": "16 acusados en vías de juicio oral; arista por prevaricación judicial contra juez Quiroz en investigación desformalizada; causa activa",
+    "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/corrupcion-en-bienes-nacionales-de-arica-cinco-detenidos-en/2025-09-03/101538.html",
     "vigente": true
   },
   {
@@ -341,37 +635,15 @@
     "tipo": "Fraude al fisco",
     "categoria": "corrupcion",
     "sector": "centroizquierda",
-    "partidos": ["DC"],
-    "involucrados": ["Johnny Piraino Meneses"],
+    "partidos": [
+      "DC"
+    ],
+    "involucrados": [
+      "Johnny Piraino Meneses"
+    ],
     "resumen": "El alcalde de La Calera Johnny Piraino (DC) fue formalizado el 3 de junio de 2026 por fraude al fisco tras acreditarse que entre el 31 de marzo y el 1 de abril de 2023 instruyó a funcionarios municipales para trasladar un camión aljibe y una retroexcavadora del municipio hasta una parcela de su propiedad en el sector La Peña de Nogales, donde se realizaron trabajos particulares ajenos a las funciones municipales. La causa se originó en un informe de la Contraloría Regional de Valparaíso, que en enero de 2026 lo suspendió por 30 días. Un extrabajador municipal denunció además que lo obligaban a trabajar en la parcela del alcalde en horario laboral sin pago adicional. El Consejo de Defensa del Estado se querelló en la causa. Tras la audiencia, el Juzgado de Garantía de La Calera decretó arraigo nacional y firma mensual, con un plazo de investigación de 180 días. El monto defraudado no arriesga pena privativa de libertad.",
     "estado": "Formalizado junio 2026; arraigo nacional y firma mensual; investigación en curso (180 días)",
     "fuente": "https://www.latercera.com/nacional/noticia/formalizan-por-fraude-al-alcalde-de-la-calera-johnny-piraino-por-uso-de-maquinaria-municipal-en-su-casa/",
     "vigente": true
-  },{
-  "id": "convenios-araucania",
-  "nombre": "Caso Convenios / Arista Araucanía (Leonelli-Rivas)",
-  "anio": 2024,
-  "tipo": "Fraude al fisco reiterado",
-  "categoria": "corrupcion",
-  "sector": "derecha",
-  "partidos": ["Independiente (vinculado a Evópoli/Chile Vamos)"],
-  "involucrados": ["Juan Pablo Leonelli Lepín", "Luciano Rivas Stepke", "Susan Alarcón"],
-  "resumen": "Juan Pablo Leonelli Lepín, exjefe de gabinete del gobernador de La Araucanía Luciano Rivas (Ind-Evópoli), fue formalizado por fraude al fisco reiterado en dos aristas del caso Convenios. En la arista 'Manicure', se le imputa el desvío de más de $730 millones traspasados a las fundaciones Folab y Educc para capacitaciones de peluquería y manicure que nunca se realizaron. En la arista 'Fundación Local', se investiga el desvío de más de $2.000 millones desde el GORE a una fundación reactivada e importada desde Valparaíso que operó como vehículo para drenar recursos regionales. En declaración ante la Fiscalía, Leonelli señaló que 'el gobernador estaba al tanto y autorizaba todo'. La exjefa de división del GORE Susan Alarcón se encuentra prófuga. En junio de 2026, el Juzgado de Garantía de Temuco revocó el arresto domiciliario de Leonelli y decretó nuevamente su prisión preventiva tras ser sorprendido conduciendo en estado de ebriedad —provocando un choque frontal en la ruta Freire-Villarrica—, no presentarse a una audiencia clave y acumular reiterados incumplimientos de cautelares. Fue enviado a la cárcel de Traiguén.",
-  "estado": "Leonelli en prisión preventiva (cárcel de Traiguén, junio 2026); Alarcón prófuga; investigación en curso",
-  "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/caso-convenios-a-prision-preventiva-el-exjefe-de-gabinete-del/2026-06-05/120853.html",
-  "vigente": true
-},{
-  "id": "bienes-nacionales-arica",
-  "nombre": "Caso Bienes Nacionales / Red de corrupción en Arica",
-  "anio": 2025,
-  "tipo": "Asociación ilícita / cohecho / soborno / lavado de activos",
-  "categoria": "corrupcion",
-  "sector": "institucional",
-  "partidos": ["Funcionarios públicos"],
-  "involucrados": ["Paula Álvarez Olivares", "Christopher Malebrán Hidalgo", "Carlos Falcón Arredondo", "Carlos Valdera Medina", "Carolina Cuadra Oliveros"],
-  "resumen": "En septiembre de 2025, un megaoperativo de la Brigada de Delitos Económicos de la PDI y la Fiscalía Regional de Arica y Parinacota —con cerca de 100 detectives— desarticuló una red de corrupción enquistada en la Seremi de Bienes Nacionales y la Dirección de Obras Municipales de Arica. Fueron detenidas y formalizadas 10 personas: cuatro funcionarios activos de la Seremi, un funcionario de la DOM, tres exfuncionarios y dos consultores privados. La investigación, que se extendió por casi tres años a partir de denuncias internas y ciudadanas, estableció que desde 2021 los imputados se organizaron con roles definidos para recibir sobornos a cambio de agilizar trámites, entregar información confidencial y manipular la entrega de concesiones, arriendos y ventas de terrenos fiscales a particulares por cuantiosas sumas de dinero. Exfuncionarios como Christopher Malebrán ofrecían servicios de topografía a usuarios de la Seremi, cuyos volantes se repartían dentro de la propia repartición. Se incautaron además 25 armas de fuego. La propia Seremi confirmó que la denuncia se originó desde el secretario regional, en coordinación con las autoridades ministeriales.",
-  "estado": "10 formalizados por asociación ilícita, cohecho, soborno y lavado de activos (septiembre 2025); cautelares dictadas; investigación en curso",
-  "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/corrupcion-en-bienes-nacionales-de-arica-cinco-detenidos-en/2025-09-03/101538.html",
-  "vigente": true
-}
+  }
 ]
