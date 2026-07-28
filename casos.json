@@ -606,6 +606,25 @@
     "vigente": true
   },
   {
+    "id": "la-serena-corporacion",
+    "nombre": "Caso Corporación La Serena / Boletas falsas en Salud",
+    "anio": 2024,
+    "tipo": "Fraude al fisco / lavado de activos",
+    "categoria": "corrupcion",
+    "sector": "institucional",
+    "partidos": [
+      "Funcionarios públicos"
+    ],
+    "involucrados": [
+      "N.P.C.M. (coordinadora Dpto. Salud)",
+      "B.O.G.G. (secretaria)",
+      "C.A.M.F. (cónyuge)"
+    ],
+    "resumen": "El Tribunal de Juicio Oral en lo Penal de La Serena condenó en julio de 2026 a dos funcionarias del Departamento de Salud de la Corporación Municipal Gabriel González Videla y al cónyuge de una de ellas por liderar una red de fraude al fisco y lavado de activos que operó entre 2019 y 2024. El esquema reclutaba a terceros que no prestaban funciones reales para la corporación y emitían boletas de honorarios ideológicamente falsas por servicios inexistentes, desviando un total de $762.778.091. El dinero era reintroducido al sistema formal mediante transferencias cruzadas y compras de bienes. Las dos funcionarias recibieron 4 años de presidio efectivo cada una, más multas equivalentes al 50% del perjuicio. El cónyuge fue condenado a 4 años por lavado y 3 años por fraude de prestaciones estatales. Otros 10 coacusados recibieron penas menores con remisión condicional. El tribunal ordenó el comiso de una vivienda, dinero en efectivo y tres automóviles.",
+    "estado": "Condena firme (julio 2026); 13 condenados; 3 con presidio efectivo; bienes decomisados",
+    "fuente": "https://www.24horas.cl/regiones/zona-norte/coquimbo/condenan-prision-funcionarias-municipales-la-serena-fraude"
+  },
+  {
     "id": "bienes-nacionales-arica",
     "nombre": "Caso Bienes Nacionales / Red de corrupción en Arica",
     "anio": 2025,
