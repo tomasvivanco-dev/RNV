@@ -664,5 +664,27 @@
     "estado": "Formalizado junio 2026; arraigo nacional y firma mensual; investigación en curso (180 días)",
     "fuente": "https://www.latercera.com/nacional/noticia/formalizan-por-fraude-al-alcalde-de-la-calera-johnny-piraino-por-uso-de-maquinaria-municipal-en-su-casa/",
     "vigente": true
+  },
+  {
+    "id": "lavin-leon",
+    "nombre": "Caso Lavín León (Facturas ideológicamente falsas)",
+    "anio": 2025,
+    "tipo": "Fraude al fisco / cohecho / falsificación de documentos",
+    "categoria": "corrupcion",
+    "sector": "derecha",
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Joaquín Lavín León",
+      "Cathy Barriga",
+      "Arnaldo Domínguez",
+      "Felipe Vásquez",
+      "Juan Silva"
+    ],
+    "resumen": "El exdiputado Joaquín Lavín León (UDI), hijo del excandidato presidencial Joaquín Lavín y esposo de la exalcaldesa de Maipú Cathy Barriga, es investigado por la Fiscalía Metropolitana Oriente como arista derivada del caso Maipú. En octubre de 2025 la PDI allanó su oficina parlamentaria, sede distrital y domicilio; al día siguiente renunció a la UDI. El 4 de mayo de 2026 fue formalizado en el 7° Juzgado de Garantía de Santiago por fraude al fisco, cohecho y falsificación y uso de instrumento privado mercantil, junto a su asesor Arnaldo Domínguez y los empresarios Felipe Vásquez y Juan Silva. Según la Fiscalía, presentó facturas ideológicamente falsas por cerca de $104 millones a la Cámara de Diputados y al Servel a nombre de la imprenta MMG (de Silva) y de la empresa Modo 74 SPA (de Vásquez), y defraudó al fisco simulando gastos electorales por $17,1 millones (contratación de Vásquez como asesor parlamentario) y $91,7 millones (al menos 186 boletas presentadas entre 2018 y 2026). El tribunal decretó prisión preventiva. En julio de 2026 fue formalizado nuevamente por delitos adicionales, incluyendo uso y comercialización irregular de datos electorales vinculados a la plataforma SocialTazk, que habría ofrecido a 70 candidatos UDI a nivel nacional entre 2020 y 2021.",
+    "estado": "Formalizado (mayo y julio 2026); en prisión preventiva; investigación en curso",
+    "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/exdiputado-joaquin-lavin-leon-es-formalizado-por-hechos-de-corrupcion/2026-05-04/094320.html",
+    "vigente": true
   }
 ]
