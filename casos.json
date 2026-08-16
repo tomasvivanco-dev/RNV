@@ -19,6 +19,25 @@
     "fuente": "https://es.wikipedia.org/wiki/Caso_MOP-GATE"
   },
   {
+    "id": "caso-riggs",
+    "nombre": "Caso Riggs (Pinochet)",
+    "anio": 2004,
+    "tipo": "Malversación de fondos públicos / lavado de activos / evasión tributaria",
+    "categoria": "corrupcion",
+    "sector": "institucional",
+    "partidos": [
+      "Dictadura militar (1973-1990)"
+    ],
+    "involucrados": [
+      "Augusto Pinochet",
+      "Lucía Hiriart",
+      "Familia Pinochet Hiriart"
+    ],
+    "resumen": "En julio de 2004 una investigación del Senado de Estados Unidos reveló que el dictador Augusto Pinochet mantuvo cuentas secretas por más de US$21 millones en el Riggs Bank de Washington, registradas bajo nombres falsos como 'Daniel López' y 'José Ramón Ugarte'. La justicia chilena determinó que de ese patrimonio, US$17,8 millones tenían origen ilícito. Su esposa Lucía Hiriart y varios de sus hijos fueron procesados por evasión tributaria asociada a esos fondos.",
+    "estado": "Fallo firme (2025): herederos de Pinochet, incluida la sucesión de Lucía Hiriart, condenados a restituir US$16,2 millones al Fisco",
+    "fuente": "https://eldesconcierto.cl/2025/07/23/herederos-del-dictador-pinochet-deben-pagar-us-162-millones-al-estado-por-el-caso-riggs-incluyen-a-lucia-hiriart"
+  },
+  {
     "id": "chiledeportes",
     "nombre": "Caso Chiledeportes",
     "anio": 2006,
@@ -290,6 +309,23 @@
     "resumen": "CMPC Tissue (del grupo Matte, marcas Confort, Elite, Nova) y SCA Chile (hoy Essity, marcas Favorita y Magiklin) se coludieron entre 2000 y 2011 para asignarse cuotas de participación de mercado y fijar precios de venta de papel higiénico, toallas, servilletas y pañuelos desechables. Juntas controlaban el 90% del mercado con ventas anuales de US00 millones. El TDLC condenó a SCA a la multa máxima y eximió a CMPC por delación compensada. En enero de 2020, la Corte Suprema revocó el beneficio de CMPC y condenó a ambas a pagar 20.000 UTA cada una (más de US5 millones), señalando que CMPC había coaccionado a SCA para participar en el cartel. CMPC ofreció una compensación voluntaria de .000 por persona a los consumidores afectados.",
     "estado": "Condenas firmes (Corte Suprema, 2020); multas de US5 millones a cada empresa; compensación a consumidores ejecutada",
     "fuente": "https://es.wikipedia.org/wiki/Colusi%C3%B3n_del_papel_higi%C3%A9nico_en_Chile"
+  },
+  {
+    "id": "cema-chile",
+    "nombre": "Caso CEMA Chile (Lucía Hiriart)",
+    "anio": 2016,
+    "tipo": "Malversación de bienes fiscales / apropiación indebida",
+    "categoria": "corrupcion",
+    "sector": "institucional",
+    "partidos": [
+      "Fundación CEMA Chile"
+    ],
+    "involucrados": [
+      "Lucía Hiriart"
+    ],
+    "resumen": "Entre 1977 y 1989, durante la dictadura, el Ministerio de Bienes Nacionales transfirió gratuitamente al menos 134 inmuebles fiscales a la Fundación CEMA Chile, presidida por Lucía Hiriart, esposa de Augusto Pinochet. Una tasación posterior de Bienes Nacionales estableció que el avalúo fiscal de esas propiedades bordeaba los $80.000 millones. La fundación operó durante décadas como una inmobiliaria privada, vendiendo terrenos y generando ingresos millonarios. En 2016, diputados del PC presentaron una querella contra Hiriart por malversación de caudales públicos y apropiación indebida.",
+    "estado": "Fundación disuelta (2017); en 2018 firmó ante la Corte de Apelaciones de Santiago la entrega de sus propiedades restantes al Fisco",
+    "fuente": "https://radio.uchile.cl/2021/12/17/cema-chile-la-fundacion-pro-mujeres-que-lucia-hiriart-convirtio-en-inmobiliaria-privada/"
   },
   {
     "id": "pacogate",
