@@ -1,151 +1,738 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Registro Nacional de Vándalos — Casos de corrupción y ética política en Chile</title>
-  <meta name="description" content="Registro independiente de los principales casos de corrupción, fraude y controversias éticas de la política chilena desde el retorno a la democracia. Datos abiertos y fuentes verificables." />
-  <meta name="keywords" content="corrupción Chile, casos de corrupción, política chilena, ética política, registro de corrupción, fraude político Chile, Penta, SQM, Convenios, Hermosilla" />
-  <meta name="author" content="Registro Nacional de Vándalos" />
-  <meta name="robots" content="index, follow, max-image-preview:large" />
+<title>Registro Nacional de Vándalos — Casos de corrupción y ética política en Chile</title>
+<meta name="description" content="Registro independiente de los principales casos de corrupción, fraude y controversias éticas de la política chilena desde el retorno a la democracia. Datos abiertos y fuentes verificables." />
+<meta name="keywords" content="corrupción Chile, casos de corrupción, política chilena, ética política, registro de corrupción, fraude político Chile, Penta, SQM, Convenios, Hermosilla" />
+<meta name="author" content="Registro Nacional de Vándalos" />
+<meta name="robots" content="index, follow, max-image-preview:large" />
 
-  <link rel="canonical" href="https://registronacionaldevandalos.cl/" />
-  <link rel="alternate" hreflang="es-CL" href="https://registronacionaldevandalos.cl/" />
-  <link rel="alternate" hreflang="es" href="https://registronacionaldevandalos.cl/" />
+<link rel="canonical" href="https://registronacionaldevandalos.cl/" />
+<link rel="alternate" hreflang="es-CL" href="https://registronacionaldevandalos.cl/" />
+<link rel="alternate" hreflang="es" href="https://registronacionaldevandalos.cl/" />
 
-  <!-- Open Graph (Facebook, WhatsApp, LinkedIn, Bluesky) -->
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="Registro Nacional de Vándalos" />
-  <meta property="og:title" content="Registro Nacional de Vándalos — Corrupción y ética política en Chile" />
-  <meta property="og:description" content="Registro independiente de los principales casos de corrupción, fraude y controversias éticas de la política chilena. Datos abiertos y fuentes verificables." />
-  <meta property="og:url" content="https://registronacionaldevandalos.cl/" />
-  <meta property="og:locale" content="es_CL" />
-  <meta property="og:image" content="https://registronacionaldevandalos.cl/og-image.png" />
-  <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="630" />
-  <meta property="og:image:alt" content="Registro Nacional de Vándalos — Casos de corrupción política en Chile" />
+<!-- Open Graph (Facebook, WhatsApp, LinkedIn, Bluesky) -->
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Registro Nacional de Vándalos" />
+<meta property="og:title" content="Registro Nacional de Vándalos — Corrupción y ética política en Chile" />
+<meta property="og:description" content="Registro independiente de los principales casos de corrupción, fraude y controversias éticas de la política chilena. Datos abiertos y fuentes verificables." />
+<meta property="og:url" content="https://registronacionaldevandalos.cl/" />
+<meta property="og:locale" content="es_CL" />
+<meta property="og:image" content="https://registronacionaldevandalos.cl/og-image.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Registro Nacional de Vándalos — Casos de corrupción política en Chile" />
 
-  <!-- Twitter / X -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Registro Nacional de Vándalos — Corrupción y ética política en Chile" />
-  <meta name="twitter:description" content="Registro independiente de casos de corrupción y controversias éticas de la política chilena." />
-  <meta name="twitter:image" content="https://registronacionaldevandalos.cl/og-image.png" />
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Registro Nacional de Vándalos — Corrupción y ética política en Chile" />
+<meta name="twitter:description" content="Registro independiente de casos de corrupción y controversias éticas de la política chilena." />
+<meta name="twitter:image" content="https://registronacionaldevandalos.cl/og-image.png" />
 
-  <!-- Favicon (los archivos podés subirlos después, las referencias no rompen nada si no existen aún) -->
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <link rel="icon" type="image/png" href="/favicon.png" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<!-- Favicon (los archivos podés subirlos después, las referencias no rompen nada si no existen aún) -->
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+<link rel="icon" type="image/png" href="/favicon.png" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
-  <!-- Theme color barra navegador móvil -->
-  <meta name="theme-color" content="#0a1e3f" />
+<!-- Theme color barra navegador móvil -->
+<meta name="theme-color" content="#1F2421" />
 
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,800&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;600;700;800&family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="styles.css" />
+<!-- Schema.org: WebSite + Dataset -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://registronacionaldevandalos.cl/#website",
+      "url": "https://registronacionaldevandalos.cl/",
+      "name": "Registro Nacional de Vándalos",
+      "description": "Registro independiente de casos de corrupción y controversias éticas de la política chilena.",
+      "inLanguage": "es-CL"
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://registronacionaldevandalos.cl/#dataset",
+      "name": "Registro Nacional de Vándalos — Casos de corrupción y ética política chilena",
+      "description": "Compilación abierta y verificable de los principales casos de corrupción, fraude y controversias éticas en la política chilena desde el retorno a la democracia. Incluye involucrados, partidos políticos, sectores, estado procesal y fuentes.",
+      "url": "https://registronacionaldevandalos.cl/",
+      "keywords": ["corrupción Chile", "política chilena", "casos de corrupción", "ética política", "fraude", "transparencia"],
+      "inLanguage": "es-CL",
+      "license": "https://opensource.org/licenses/MIT",
+      "isAccessibleForFree": true,
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://registronacionaldevandalos.cl/casos.json"
+        }
+      ]
+    }
+  ]
+}
+</script>
 
-  <!-- Schema.org: WebSite + Dataset -->
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "WebSite",
-        "@id": "https://registronacionaldevandalos.cl/#website",
-        "url": "https://registronacionaldevandalos.cl/",
-        "name": "Registro Nacional de Vándalos",
-        "description": "Registro independiente de casos de corrupción y controversias éticas de la política chilena.",
-        "inLanguage": "es-CL"
-      },
-      {
-        "@type": "Dataset",
-        "@id": "https://registronacionaldevandalos.cl/#dataset",
-        "name": "Registro Nacional de Vándalos — Casos de corrupción y ética política chilena",
-        "description": "Compilación abierta y verificable de los principales casos de corrupción, fraude y controversias éticas en la política chilena desde el retorno a la democracia. Incluye involucrados, partidos políticos, sectores, estado procesal y fuentes.",
-        "url": "https://registronacionaldevandalos.cl/",
-        "keywords": ["corrupción Chile", "política chilena", "casos de corrupción", "ética política", "fraude", "transparencia"],
-        "inLanguage": "es-CL",
-        "license": "https://opensource.org/licenses/MIT",
-        "isAccessibleForFree": true,
-        "distribution": [
-          {
-            "@type": "DataDownload",
-            "encodingFormat": "application/json",
-            "contentUrl": "https://registronacionaldevandalos.cl/casos.json"
-          }
-        ]
-      }
-    ]
+<style>
+  :root {
+    --paper: #EDE7D9;
+    --paper-dark: #E3DCC9;
+    --ink: #1F2421;
+    --sello-rojo: #6E1F2A;
+    --slate: #2B3A45;
+    --ocre: #C08829;
+    --salvia: #6B7D6C;
+    --line: rgba(31,36,33,0.14);
   }
-  </script>
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--paper);
+    background-image:
+      radial-gradient(circle at 20% 10%, rgba(255,255,255,0.25), transparent 40%),
+      repeating-linear-gradient(0deg, transparent, transparent 39px, rgba(31,36,33,0.02) 40px);
+    color: var(--ink);
+    font-family: 'Inter', sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: inherit; }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px; height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  header.masthead {
+    border-bottom: 3px solid var(--ink);
+    padding: 2.5rem 1.5rem 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .masthead-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--slate);
+    margin-bottom: 1.2rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .masthead-top span.folio-count {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0.15rem 0.5rem;
+    border-radius: 2px;
+  }
+
+  h1.title {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 800;
+    font-size: clamp(2.2rem, 6vw, 4rem);
+    letter-spacing: -0.02em;
+    line-height: 0.98;
+    text-transform: uppercase;
+  }
+
+  h1.title span.accent { color: var(--sello-rojo); }
+
+  .subtitle {
+    margin-top: 0.8rem;
+    max-width: 50ch;
+    font-size: 0.95rem;
+    color: var(--slate);
+  }
+
+  /* ===== FILTROS ===== */
+  nav.filtros {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.2rem 1.5rem 0.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.9rem;
+  }
+
+  .filtros-buscar {
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+  }
+
+  .filtros-buscar input[type="search"] {
+    flex: 1 1 260px;
+    background: var(--paper-dark);
+    border: 1px solid var(--ink);
+    border-radius: 2px;
+    padding: 0.55rem 0.8rem;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.85rem;
+    color: var(--ink);
+  }
+
+  .filtros-buscar input[type="search"]::placeholder {
+    color: var(--slate);
+    opacity: 0.8;
+  }
+
+  .filtros-buscar select {
+    background: var(--paper-dark);
+    border: 1px solid var(--ink);
+    border-radius: 2px;
+    padding: 0.55rem 0.8rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--ink);
+    cursor: pointer;
+  }
+
+  .filtros-grupo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+
+  .filtros-label {
+    color: var(--slate);
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+    margin-right: 0.2rem;
+    flex-basis: 100%;
+  }
+
+  @media (min-width: 640px) {
+    .filtros-label { flex-basis: auto; margin-right: 0.6rem; }
+  }
+
+  .filtros-grupo button {
+    background: transparent;
+    border: 1px solid var(--ink);
+    color: var(--ink);
+    padding: 0.4rem 0.8rem;
+    border-radius: 2px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    transition: all 0.15s ease;
+  }
+
+  .filtros-grupo button.active,
+  .filtros-grupo button:hover {
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  main.fichero {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem 4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.4rem;
+  }
+
+  p.empty {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1rem 1.5rem 4rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.8rem;
+    color: var(--slate);
+  }
+
+  .ficha {
+    background: var(--paper-dark);
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    padding: 1.3rem 1.3rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 1px 0 rgba(31,36,33,0.05);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ficha:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(31,36,33,0.12);
+  }
+
+  .ficha-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--slate);
+    margin-bottom: 0.9rem;
+    border-bottom: 1px dashed var(--line);
+    padding-bottom: 0.6rem;
+  }
+
+  .ficha-top .folio { font-weight: 700; }
+
+  .ficha-top .anio { margin-right: 5.2rem; }
+
+  .ficha h2 {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.25;
+    margin-bottom: 0.5rem;
+  }
+
+  .ficha .meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--sello-rojo);
+    margin-bottom: 0.7rem;
+  }
+
+  .ficha .meta .sector-tag {
+    color: var(--slate);
+  }
+
+  .ficha p.resumen {
+    font-size: 0.85rem;
+    color: var(--ink);
+    opacity: 0.85;
+    margin-bottom: 1rem;
+    flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .ficha .ver {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.72rem;
+    text-decoration: none;
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 1px;
+    align-self: flex-start;
+  }
+
+  .sello {
+    position: absolute;
+    top: 0.9rem;
+    right: -0.6rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    font-size: 0.6rem;
+    letter-spacing: 0.06em;
+    padding: 0.3rem 0.7rem;
+    border: 2px solid currentColor;
+    border-radius: 3px;
+    transform: rotate(-7deg);
+    text-transform: uppercase;
+    opacity: 0.9;
+    mix-blend-mode: multiply;
+  }
+
+  .sello::before {
+    content: "";
+    position: absolute;
+    inset: 2px;
+    border: 1px solid currentColor;
+    border-radius: 2px;
+    opacity: 0.5;
+  }
+
+  .sello.vigente { color: var(--sello-rojo); }
+  .sello.archivado { color: var(--salvia); }
+
+  footer {
+    text-align: center;
+    padding: 3rem 1.5rem;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--slate);
+    border-top: 1px solid var(--line);
+  }
+
+  footer a { text-decoration: underline; }
+
+  /* ===== MODAL / EXPEDIENTE COMPLETO ===== */
+  .modal-backdrop {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(31,36,33,0.55);
+    z-index: 50;
+    padding: 2rem 1.2rem;
+    overflow-y: auto;
+  }
+
+  .modal-backdrop.open { display: block; }
+
+  .modal {
+    background: var(--paper);
+    max-width: 640px;
+    margin: 0 auto;
+    border: 1px solid var(--ink);
+    border-radius: 3px;
+    padding: 2rem;
+    position: relative;
+  }
+
+  .modal-close {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: 1px solid var(--ink);
+    width: 28px;
+    height: 28px;
+    border-radius: 2px;
+    cursor: pointer;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.9rem;
+    color: var(--ink);
+  }
+
+  .modal-folio {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--slate);
+    margin-bottom: 0.5rem;
+    border-bottom: 1px dashed var(--line);
+    padding-bottom: 0.8rem;
+  }
+
+  .modal h2 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 800;
+    font-size: 1.5rem;
+    margin: 0.8rem 0 0.3rem;
+    padding-right: 2rem;
+  }
+
+  .modal .modal-meta {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    color: var(--sello-rojo);
+    margin-bottom: 1.2rem;
+  }
+
+  .modal-field {
+    margin-bottom: 1rem;
+  }
+
+  .modal-field .label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--slate);
+    margin-bottom: 0.3rem;
+  }
+
+  .modal-field .value {
+    font-size: 0.92rem;
+  }
+
+  .modal-field .value a {
+    text-decoration: underline;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .ficha { transition: none; }
+  }
+</style>
 </head>
 <body>
 
-  <header class="masthead">
-    <div class="container">
-      <div class="masthead__top">
-        <span class="masthead__kicker">Chile · Editorial independiente</span>
-        <span class="masthead__date" id="fechaActual"></span>
+<header class="masthead">
+  <div class="masthead-top">
+    <span id="fechaActual"></span>
+    <span class="folio-count" id="folio-count">— expedientes</span>
+  </div>
+  <h1 class="title">Registro Nacional<br><span class="accent">de Vándalos</span></h1>
+  <p class="subtitle">No perseguimos a quien raya un muro. Documentamos a quienes vacían las arcas. Un registro ciudadano de corrupción, delitos económicos y controversias éticas en Chile.</p>
+</header>
+
+<nav class="filtros" aria-label="Filtros">
+  <div class="filtros-buscar">
+    <label for="search" class="visually-hidden">Buscar</label>
+    <input type="search" id="search" placeholder="Buscar caso, persona, partido…" autocomplete="off">
+    <label for="sort" class="visually-hidden">Ordenar</label>
+    <select id="sort" aria-label="Ordenar">
+      <option value="relevancia">Más recientes primero</option>
+      <option value="anio-asc">Más antiguos primero</option>
+      <option value="nombre">Alfabético</option>
+    </select>
+  </div>
+  <div class="filtros-grupo" id="filtros-categoria" role="group" aria-label="Filtrar por categoría">
+    <span class="filtros-label">Categoría</span>
+    <button data-filter="todos" class="active">Todos</button>
+    <button data-filter="vigente">Vigentes</button>
+    <button data-filter="corrupcion">Corrupción</button>
+    <button data-filter="delito-economico">Delito económico</button>
+    <button data-filter="controversia">Controversia</button>
+  </div>
+  <div class="filtros-grupo" id="filtros-sector" role="group" aria-label="Filtrar por sector">
+    <span class="filtros-label">Sector</span>
+    <button data-sector="todos" class="active">Todos</button>
+    <button data-sector="derecha">Derecha</button>
+    <button data-sector="centroizquierda">Centroizquierda</button>
+    <button data-sector="izquierda">Izquierda</button>
+    <button data-sector="transversal">Transversal</button>
+    <button data-sector="institucional">Institucional</button>
+    <button data-sector="empresarial">Empresarial</button>
+  </div>
+</nav>
+
+<main class="fichero" id="fichero"></main>
+<p class="empty" id="empty" hidden>No hay casos que coincidan con la búsqueda.</p>
+
+<div class="modal-backdrop" id="modal-backdrop">
+  <div class="modal" id="modal-content"></div>
+</div>
+
+<footer>
+  Registro Nacional de Vándalos — proyecto ciudadano independiente. No es un servicio del Estado de Chile. ·
+  <a href="mailto:contacto@registronacionaldevandalos.cl">Contacto</a>
+</footer>
+
+<script>
+let DATA = [];
+
+const state = {
+  categoria: 'todos',
+  sector: 'todos',
+  busqueda: '',
+  orden: 'relevancia',
+};
+
+const CATEGORIA_LABEL = {
+  "corrupcion": "Corrupción",
+  "delito-economico": "Delito económico",
+  "controversia": "Controversia",
+  "etica-publica": "Ética pública"
+};
+
+const SECTOR_LABEL = {
+  "derecha": "Derecha",
+  "centroizquierda": "Centroizquierda",
+  "izquierda": "Izquierda",
+  "transversal": "Transversal",
+  "institucional": "Institucional",
+  "empresarial": "Empresarial"
+};
+
+function setFechaActual() {
+  const f = new Date();
+  const opt = { day: '2-digit', month: 'long', year: 'numeric' };
+  document.getElementById('fechaActual').textContent = 'Archivo público · actualizado ' + f.toLocaleDateString('es-CL', opt);
+}
+
+function init() {
+  document.getElementById('folio-count').textContent = DATA.length + ' expedientes';
+  render();
+}
+
+fetch('casos.json', { cache: 'no-cache' })
+  .then(res => {
+    if (!res.ok) throw new Error('No se pudo cargar casos.json');
+    return res.json();
+  })
+  .then(json => { DATA = json; init(); })
+  .catch(err => {
+    document.getElementById('fichero').innerHTML =
+      '<p style="font-family:JetBrains Mono, monospace; font-size:0.8rem; padding:2rem;">Error cargando casos.json — si abriste index.html directamente (file://), el navegador bloquea fetch local. Levantá un servidor estático: <code>python3 -m http.server</code></p>';
+    console.error(err);
+  });
+
+function sortedData(list) {
+  const arr = [...list];
+  switch (state.orden) {
+    case 'anio-asc':
+      arr.sort((a, b) => a.anio - b.anio);
+      break;
+    case 'nombre':
+      arr.sort((a, b) => a.nombre.localeCompare(b.nombre, 'es'));
+      break;
+    default:
+      arr.sort((a, b) => {
+        const av = a.vigente ? 1 : 0;
+        const bv = b.vigente ? 1 : 0;
+        if (av !== bv) return bv - av;
+        return b.anio - a.anio;
+      });
+  }
+  return arr;
+}
+
+function filteredData() {
+  let list = [...DATA];
+
+  if (state.categoria === 'vigente') {
+    list = list.filter(d => d.vigente);
+  } else if (state.categoria !== 'todos') {
+    list = list.filter(d => d.categoria === state.categoria);
+  }
+
+  if (state.sector !== 'todos') {
+    list = list.filter(d => d.sector === state.sector);
+  }
+
+  if (state.busqueda) {
+    const q = state.busqueda.toLowerCase().trim();
+    list = list.filter(d => {
+      const haystack = [
+        d.nombre, d.resumen, d.tipo, d.estado, d.categoria || '',
+        ...(d.partidos || []),
+        ...(d.involucrados || []),
+      ].join(' ').toLowerCase();
+      return haystack.includes(q);
+    });
+  }
+
+  return sortedData(list);
+}
+
+function folioNumber(item) {
+  const idx = DATA.findIndex(d => d.id === item.id);
+  return String(idx + 1).padStart(3, '0');
+}
+
+function render() {
+  const container = document.getElementById('fichero');
+  const empty = document.getElementById('empty');
+  const list = filteredData();
+
+  if (list.length === 0) {
+    container.innerHTML = '';
+    empty.hidden = false;
+    return;
+  }
+  empty.hidden = true;
+
+  container.innerHTML = '';
+  list.forEach(item => {
+    const sello = item.vigente ? 'vigente' : 'archivado';
+    const selloText = item.vigente ? 'Vigente' : 'Archivado';
+    const el = document.createElement('article');
+    el.className = 'ficha';
+    el.innerHTML = `
+      <span class="sello ${sello}">${selloText}</span>
+      <div class="ficha-top">
+        <span class="folio">N° ${folioNumber(item)}</span>
+        <span class="anio">${item.anio}</span>
       </div>
-      <h1 class="masthead__title">Registro Nacional <span class="masthead__title-em">de Vándalos</span></h1>
-      <p class="masthead__lede">
-        Corrupción, delitos económicos y faltas a la ética pública en Chile. Porque vándalo es también quien rompe lo común y se enriquece a costa del resto.
-      </p>
-      <div class="masthead__stats" id="stats" aria-live="polite"></div>
+      <div class="meta">${CATEGORIA_LABEL[item.categoria] || item.categoria} <span class="sector-tag">· ${SECTOR_LABEL[item.sector] || item.sector}</span></div>
+      <h2>${item.nombre}</h2>
+      <p class="resumen">${item.resumen}</p>
+      <span class="ver">ver expediente completo →</span>
+    `;
+    el.addEventListener('click', () => openModal(item));
+    container.appendChild(el);
+  });
+}
+
+function openModal(item) {
+  const selloText = item.vigente ? 'Vigente' : 'Archivado';
+  const modal = document.getElementById('modal-content');
+  modal.innerHTML = `
+    <button class="modal-close" id="modal-close-btn">×</button>
+    <div class="modal-folio">N° ${folioNumber(item)} · ${item.anio}</div>
+    <h2>${item.nombre}</h2>
+    <div class="modal-meta">${CATEGORIA_LABEL[item.categoria] || item.categoria} · ${SECTOR_LABEL[item.sector] || item.sector} · ${selloText}</div>
+    <div class="modal-field">
+      <div class="label">Tipo</div>
+      <div class="value">${item.tipo}</div>
     </div>
-  </header>
-
-  <nav class="filters" aria-label="Filtros">
-    <div class="container filters__inner">
-      <div class="filters__search">
-        <label for="search" class="visually-hidden">Buscar</label>
-        <input
-          type="search"
-          id="search"
-          placeholder="Buscar caso, persona, partido…"
-          autocomplete="off"
-        />
-      </div>
-      <div class="filters__chips" id="chips" role="group" aria-label="Filtrar por sector">
-        <button class="chip is-active" data-sector="todos">Todos</button>
-        <button class="chip" data-sector="derecha">Derecha</button>
-        <button class="chip" data-sector="centroizquierda">Centroizquierda</button>
-        <button class="chip" data-sector="izquierda">Izquierda</button>
-        <button class="chip" data-sector="transversal">Transversal</button>
-        <button class="chip" data-sector="institucional">Institucional</button>
-        <button class="chip" data-sector="empresarial">Empresarial</button>
-      </div>
-      <div class="filters__sort">
-        <label for="sort" class="visually-hidden">Ordenar</label>
-        <select id="sort">
-          <option value="anio-desc">Más recientes primero</option>
-          <option value="anio-asc">Más antiguos primero</option>
-          <option value="nombre">Alfabético</option>
-        </select>
-      </div>
+    <div class="modal-field">
+      <div class="label">Partidos / afiliación</div>
+      <div class="value">${(item.partidos || []).join(', ') || '—'}</div>
     </div>
-  </nav>
-
-  <main class="container">
-    <ol class="casos" id="casos"></ol>
-    <p class="empty" id="empty" hidden>No hay casos que coincidan con la búsqueda.</p>
-  </main>
-
-  <footer class="footer">
-    <div class="container">
-      <p>
-        Este sitio es un compendio editorial de información pública. Los casos se describen con base en reportajes periodísticos y resoluciones judiciales abiertas. Donde la causa sigue activa, se indica el estado procesal.
-      </p>
-      <p class="footer__meta">
-        Código abierto · Sin trackers ·
-        <a href="mailto:contacto@registronacionaldevandalos.cl">Contacto</a>
-      </p>
+    <div class="modal-field">
+      <div class="label">Involucrados</div>
+      <div class="value">${(item.involucrados || []).join(', ') || '—'}</div>
     </div>
-  </footer>
+    <div class="modal-field">
+      <div class="label">Resumen</div>
+      <div class="value">${item.resumen}</div>
+    </div>
+    <div class="modal-field">
+      <div class="label">Estado</div>
+      <div class="value">${item.estado}</div>
+    </div>
+    <div class="modal-field">
+      <div class="label">Fuente</div>
+      <div class="value"><a href="${item.fuente}" target="_blank" rel="noopener">${item.fuente}</a></div>
+    </div>
+  `;
+  document.getElementById('modal-backdrop').classList.add('open');
+  document.getElementById('modal-close-btn').addEventListener('click', closeModal);
+}
 
-  <script src="app.js"></script>
+function closeModal() {
+  document.getElementById('modal-backdrop').classList.remove('open');
+}
+
+document.getElementById('modal-backdrop').addEventListener('click', (e) => {
+  if (e.target.id === 'modal-backdrop') closeModal();
+});
+
+document.getElementById('filtros-categoria').addEventListener('click', (e) => {
+  if (e.target.tagName !== 'BUTTON') return;
+  document.querySelectorAll('#filtros-categoria button').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  state.categoria = e.target.dataset.filter;
+  render();
+});
+
+document.getElementById('filtros-sector').addEventListener('click', (e) => {
+  if (e.target.tagName !== 'BUTTON') return;
+  document.querySelectorAll('#filtros-sector button').forEach(b => b.classList.remove('active'));
+  e.target.classList.add('active');
+  state.sector = e.target.dataset.sector;
+  render();
+});
+
+document.getElementById('search').addEventListener('input', (e) => {
+  state.busqueda = e.target.value;
+  render();
+});
+
+document.getElementById('sort').addEventListener('change', (e) => {
+  state.orden = e.target.value;
+  render();
+});
+
+setFechaActual();
+</script>
+
 </body>
 </html>

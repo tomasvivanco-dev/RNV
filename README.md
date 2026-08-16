@@ -4,17 +4,15 @@ Sitio estático, sin dependencias, que registra los principales casos de corrupc
 
 ## Stack
 
-- HTML, CSS y JS vanilla. Cero frameworks.
+- HTML, CSS y JS vanilla, todo autocontenido en `index.html`. Cero frameworks, cero build step.
 - Datos en `casos.json` — fácil de editar sin tocar código.
-- Google Fonts (Fraunces + Inter + JetBrains Mono). Sin trackers, sin analytics.
+- Google Fonts (Public Sans + Inter + JetBrains Mono). Sin trackers, sin analytics.
 
 ## Estructura
 
 ```
 .
-├── index.html      # Maquetado
-├── styles.css      # Diseño editorial
-├── app.js          # Render, filtros, búsqueda
+├── index.html      # Maquetado + estilos + render/filtros/búsqueda (todo en un archivo)
 ├── casos.json      # Datos (editá acá para agregar/modificar casos)
 └── README.md
 ```
