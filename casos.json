@@ -1,5 +1,24 @@
 [
   {
+    "id": "caso-chispas",
+    "nombre": "Caso Chispas / Enersis-Endesa España",
+    "anio": 1997,
+    "tipo": "Manipulación bursátil / perjuicio a accionistas minoritarios",
+    "categoria": "delito-economico",
+    "sector": "empresarial",
+    "partidos": [
+      "Sector privado"
+    ],
+    "involucrados": [
+      "José Yuraszeck",
+      "Ejecutivos 'Chispas' de Enersis",
+      "Endesa España"
+    ],
+    "resumen": "En 1997, siete altos ejecutivos de la eléctrica chilena Enersis, liderados por José Yuraszeck —expresidente de la compañía y exmilitante UDI—, negociaron la entrada de Endesa España a la propiedad de Enersis a través de las sociedades 'Chispas', pactando contratos que les significaron dividendos millonarios en perjuicio de los accionistas minoritarios. Conocido como «el negocio del siglo», el escándalo bursátil tuvo ramificaciones políticas que alcanzaron al entonces candidato presidencial Sebastián Piñera y puso en cuestión las privatizaciones de empresas públicas de fines de la dictadura.",
+    "estado": "Condenas administrativas en 2004: multas por US$75 millones a los ejecutivos involucrados, cuyas ganancias cuestionadas superaron los US$400 millones; causa cerrada",
+    "fuente": "https://es.wikipedia.org/wiki/Caso_Chispas"
+  },
+  {
     "id": "mop-gate",
     "nombre": "Caso MOP-GATE / Sobresueldos",
     "anio": 2002,
@@ -206,6 +225,23 @@
     "vigente": true
   },
   {
+    "id": "parisi-rendicion-2014",
+    "nombre": "Caso Rendición de Gastos Electorales (Parisi)",
+    "anio": 2014,
+    "tipo": "Rendición irregular de gastos de campaña electoral",
+    "categoria": "controversia",
+    "sector": "transversal",
+    "partidos": [
+      "PRI (Partido Regionalista de los Independientes)"
+    ],
+    "involucrados": [
+      "Franco Parisi"
+    ],
+    "resumen": "En febrero de 2014, el Servicio Electoral (Servel) objetó 27 rendiciones de gastos de la campaña presidencial de Franco Parisi (PRI), entre ellas $580.400 en cinturones, corbatas, bóxers, calcetines y zapatos de la marca Hugo Boss declarados como gasto electoral. También objetó una factura de $59,5 millones por publicidad pagada a una empresa dedicada a la compraventa de caballos y un pago de $8 millones a su prima Karen Tapia Parisi por labores de secretaria en terreno. Parisi calificó lo ocurrido como una 'ingenuidad' y un error administrativo de su equipo.",
+    "estado": "Rendición de gastos rechazada por el Servel (2014); sin consecuencias penales conocidas",
+    "fuente": "https://www.biobiochile.cl/noticias/2014/02/03/servel-objeta-a-parisi-gasto-electoral-por-ropa-interior-hugo-boss-y-sueldo-de-8-millones-a-prima.shtml"
+  },
+  {
     "id": "sqm",
     "nombre": "Caso SQM",
     "anio": 2015,
@@ -358,8 +394,8 @@
       "Virginia Reginato",
       "Funcionarios municipales de Viña del Mar"
     ],
-    "resumen": "La exalcaldesa de Viña del Mar Virginia Reginato (UDI) es investigada por malversación de cerca de $100.000 millones a través de horas extras irregulares pagadas a funcionarios municipales durante su gestión. Una de las mayores investigaciones por fraude municipal en Chile.",
-    "estado": "Investigación vigente; formalizaciones en curso",
+    "resumen": "La exalcaldesa de Viña del Mar Virginia Reginato (UDI) es investigada por malversación de cerca de $100.000 millones a través de horas extras irregulares pagadas a funcionarios municipales durante su gestión. Una de las mayores investigaciones por fraude municipal en Chile. Por separado, en noviembre de 2021 la administración de la alcaldesa Macarena Ripamonti demandó civilmente a Reginato y a su exadministrador municipal Claudio Boisier por $879.240.239, correspondientes a intereses y multas generados por el no pago oportuno de cotizaciones previsionales de trabajadores de la Corporación Municipal entre 2016 y 2021. En abril de 2024 el Segundo Juzgado Civil de Viña del Mar rechazó esa demanda, al no acreditarse dolo o culpa de Reginato en los hechos.",
+    "estado": "Investigación penal por malversación vigente; formalizaciones en curso. Demanda civil por $879 millones rechazada por tribunal (abril 2024)",
     "fuente": "https://www.elclarin.cl/2024/05/18/corrupcion-municipal-la-udi-encabeza-la-lista-de-casos-en-chile/"
   },
   {
@@ -462,6 +498,23 @@
     "fuente": "https://www.ciperchile.cl/2021/10/03/pandora-papers-familias-pinera-y-delano-sellaron-millonaria-compraventa-de-minera-dominga-en-islas-virgenes-britanicas/"
   },
   {
+    "id": "caso-ancalao",
+    "nombre": "Caso Ancalao / Firmas falsas ante notario fallecido",
+    "anio": 2021,
+    "tipo": "Falsificación de instrumento público / fraude electoral",
+    "categoria": "corrupcion",
+    "sector": "izquierda",
+    "partidos": [
+      "Independiente (respaldado por Lista del Pueblo)"
+    ],
+    "involucrados": [
+      "Diego Ancalao"
+    ],
+    "resumen": "El excandidato presidencial Diego Ancalao, respaldado por la Lista del Pueblo, inscribió su candidatura en agosto de 2021 presentando al Servel 23.161 firmas de patrocinio supuestamente rubricadas ante el notario Patricio Zaldívar, quien había fallecido el 11 de febrero de ese año. El Servel detectó que 9.265 de esas firmas se habrían registrado en un solo día (20 de agosto) y rechazó la candidatura, denunciando el hecho al Ministerio Público. La hija del notario fallecido se querelló por usurpación de nombre y falsificación de instrumento público. En diciembre de 2023 la PDI detuvo a cuatro colaboradores de Ancalao; la Fiscalía solicitó 15 años de presidio para él por liderar el esquema de firmas falsas.",
+    "estado": "Investigación penal en curso; Fiscalía solicita 15 años de presidio para Ancalao",
+    "fuente": "https://www.emol.com/noticias/Nacional/2021/09/01/1031378/servel-firmas-notario-ancalao-pueblo.html"
+  },
+  {
     "id": "torrealba",
     "nombre": "Caso Vitacura (Torrealba)",
     "anio": 2022,
@@ -518,6 +571,45 @@
     "estado": "Formalizaciones múltiples; investigación expandida a más de 50 fundaciones",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Convenios",
     "vigente": true
+  },
+  {
+    "id": "caso-lenceria-polizzi",
+    "nombre": "Caso Lencería (Camila Polizzi)",
+    "anio": 2023,
+    "tipo": "Fraude al fisco / estafa / lavado de activos (arista del Caso Convenios)",
+    "categoria": "corrupcion",
+    "sector": "izquierda",
+    "partidos": [
+      "Independiente (ex cupo Frente Amplio)"
+    ],
+    "involucrados": [
+      "Camila Polizzi",
+      "Sebastián Polanco",
+      "Simón Acuña",
+      "Rodrigo Martínez"
+    ],
+    "resumen": "La excandidata a alcaldesa de Concepción Camila Polizzi obtuvo, a través de la Fundación En Ti, un convenio directo por $250 millones con el Gobierno Regional del Biobío para un proyecto de recuperación de espacios y seguridad en el Barrio Norte de Concepción. La Fiscalía acusa que buena parte de esos fondos se destinó a fines ajenos al convenio, incluyendo compras de lencería y otros artículos personales. Polizzi fue detenida por la PDI en julio de 2023 junto a su entonces pareja Sebastián Polanco; la Fiscalía Anticorrupción de Biobío los acusa de estafa y lavado de activos, y solicita 15 años de presidio para el exjefe de división del GORE Simón Acuña y el exadministrador regional Rodrigo Martínez por fraude al fisco.",
+    "estado": "En juicio; Fiscalía solicita 8 años de presidio para Polizzi y Polanco (septiembre 2025)",
+    "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/caso-lenceria-fiscalia-pidio-ocho-anos-de-carcel-para-camila-polizzi-y/2025-09-12/091719.html",
+    "vigente": true
+  },
+  {
+    "id": "centro-espacial",
+    "nombre": "Caso Centro Espacial (arista Caso Convenios, Ricardo Rincón)",
+    "anio": 2023,
+    "tipo": "Convenio irregular con fundación / fraude al fisco",
+    "categoria": "corrupcion",
+    "sector": "centroizquierda",
+    "partidos": [
+      "Demócratas"
+    ],
+    "involucrados": [
+      "Ricardo Rincón",
+      "Fundación Leitat Chile"
+    ],
+    "resumen": "A inicios de 2023, el Gobierno Regional del Biobío asignó de forma directa $720 millones a la Fundación Leitat Chile para crear un supuesto 'Centro de Innovación Espacial', proyecto que en la práctica se redujo a talleres en colegios y la organización de 'torneos espaciales'. En él trabajó Ricardo Rincón, hermano de la entonces presidenta del Partido Demócratas y senadora Ximena Rincón, quien recibió al menos $15 millones por labores de 'consultoría' y un 'plan de gobernanza'. Un año después del cierre del programa, apenas $100 millones de los $720 millones habían sido ejecutados.",
+    "estado": "Fiscalía investiga el traspaso; el Primer Juzgado Civil de Concepción condenó a la Fundación Leitat a restituir $564 millones al GORE Biobío, con $224 millones adicionales pendientes de devolución (2026)",
+    "fuente": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/reportajes/2024/05/08/otra-trenza-politica-gore-bio-bio-asigno-720-millones-a-centro-espacial-ligado-a-ricardo-rincon.shtml"
   },
   {
     "id": "algarrobo-yanez",
