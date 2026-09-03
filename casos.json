@@ -533,6 +533,26 @@
     "fuente": "https://es.wikipedia.org/wiki/Corrupci%C3%B3n_en_Chile"
   },
   {
+    "id": "luminarias-led-paredes",
+    "nombre": "Caso Luminarias LED / Itelecom (Fernando Paredes, Puerto Natales)",
+    "anio": 2022,
+    "tipo": "Cohecho / violación de secreto / fraude al fisco",
+    "categoria": "corrupcion",
+    "sector": "derecha",
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Fernando Paredes Mansilla",
+      "Itelecom",
+      "Alejandro Velásquez"
+    ],
+    "resumen": "El exalcalde de Puerto Natales Fernando Paredes Mansilla (UDI) fue formalizado en noviembre de 2022 por cohecho y violación de secreto en el marco del proyecto de reposición de luminarias públicas LED de la comuna, financiado por el Gobierno Regional de Magallanes con cerca de $1.673 millones. Según la Fiscalía, Paredes aceptó pagos de la empresa Itelecom a cambio de intervenir en las bases y especificaciones de la licitación; los vínculos entre ejecutivos de Itelecom y alcaldes de distintas comunas del país —entre ellos Puerto Natales— habían sido revelados públicamente en enero de 2021. El 23 de enero de 2023 fue enviado a prisión preventiva, medida que mantuvo por más de dos años y medio hasta pasar a arresto domiciliario y luego, en agosto de 2025, a firma mensual con arraigo regional. Por separado, en marzo de 2024 Paredes y el exdirectivo de la Corporación Municipal de Natales (CORMUNAT) Alejandro Velásquez fueron formalizados por fraude al fisco por $43 millones. Tras negarse a admitir responsabilidad, Paredes optó por ir a juicio oral, que se inició el 31 de julio de 2026; la Fiscalía pidió 10 años de presidio. El 1 de septiembre de 2026 el tribunal lo condenó por cohecho agravado y lo absolvió del cargo de violación de secreto.",
+    "estado": "Condenado por cohecho agravado (1 de septiembre de 2026); absuelto de violación de secreto; lectura de sentencia fijada para el 11 de septiembre de 2026; arista de fraude al fisco (CORMUNAT) en tramitación",
+    "fuente": "https://laprensaaustral.cl/2026/09/01/exalcalde-fernando-paredes-es-condenado-por-cohecho-y-absuelto-por-violacion-de-secreto/",
+    "vigente": true
+  },
+  {
     "id": "karina-oliva",
     "nombre": "Caso Karina Oliva",
     "anio": 2022,
