@@ -1,5 +1,24 @@
 [
   {
+    "id": "caso-chispas",
+    "nombre": "Caso Chispas / Enersis-Endesa España",
+    "anio": 1997,
+    "tipo": "Manipulación bursátil / perjuicio a accionistas minoritarios",
+    "categoria": "delito-economico",
+    "sector": "empresarial",
+    "partidos": [
+      "Sector privado"
+    ],
+    "involucrados": [
+      "José Yuraszeck",
+      "Ejecutivos 'Chispas' de Enersis",
+      "Endesa España"
+    ],
+    "resumen": "En 1997, siete altos ejecutivos de la eléctrica chilena Enersis, liderados por José Yuraszeck —expresidente de la compañía y exmilitante UDI—, negociaron la entrada de Endesa España a la propiedad de Enersis a través de las sociedades 'Chispas', pactando contratos que les significaron dividendos millonarios en perjuicio de los accionistas minoritarios. Conocido como «el negocio del siglo», el escándalo bursátil tuvo ramificaciones políticas que alcanzaron al entonces candidato presidencial Sebastián Piñera y puso en cuestión las privatizaciones de empresas públicas de fines de la dictadura.",
+    "estado": "Condenas administrativas en 2004: multas por US$75 millones a los ejecutivos involucrados, cuyas ganancias cuestionadas superaron los US$400 millones; causa cerrada",
+    "fuente": "https://es.wikipedia.org/wiki/Caso_Chispas"
+  },
+  {
     "id": "mop-gate",
     "nombre": "Caso MOP-GATE / Sobresueldos",
     "anio": 2002,
@@ -17,6 +36,25 @@
     "resumen": "Pagos paralelos a funcionarios públicos a través de la consultora GATE, asociada al Ministerio de Obras Públicas, durante los gobiernos de Frei y Lagos. Derivó en el caso 'Sobresueldos': pagos extra a ministros y autoridades fuera del presupuesto formal, financiados con fondos del MOP.",
     "estado": "Condenas y absoluciones diversas",
     "fuente": "https://es.wikipedia.org/wiki/Caso_MOP-GATE"
+  },
+  {
+    "id": "caso-riggs",
+    "nombre": "Caso Riggs (Pinochet)",
+    "anio": 2004,
+    "tipo": "Malversación de fondos públicos / lavado de activos / evasión tributaria",
+    "categoria": "corrupcion",
+    "sector": "institucional",
+    "partidos": [
+      "Dictadura militar (1973-1990)"
+    ],
+    "involucrados": [
+      "Augusto Pinochet",
+      "Lucía Hiriart",
+      "Familia Pinochet Hiriart"
+    ],
+    "resumen": "En julio de 2004 una investigación del Senado de Estados Unidos reveló que el dictador Augusto Pinochet mantuvo cuentas secretas por más de US$21 millones en el Riggs Bank de Washington, registradas bajo nombres falsos como 'Daniel López' y 'José Ramón Ugarte'. La justicia chilena determinó que de ese patrimonio, US$17,8 millones tenían origen ilícito. Su esposa Lucía Hiriart y varios de sus hijos fueron procesados por evasión tributaria asociada a esos fondos.",
+    "estado": "Fallo firme (2025): herederos de Pinochet, incluida la sucesión de Lucía Hiriart, condenados a restituir US$16,2 millones al Fisco",
+    "fuente": "https://eldesconcierto.cl/2025/07/23/herederos-del-dictador-pinochet-deben-pagar-us-162-millones-al-estado-por-el-caso-riggs-incluyen-a-lucia-hiriart"
   },
   {
     "id": "chiledeportes",
@@ -73,7 +111,7 @@
       "Cruz Verde",
       "Salcobrand"
     ],
-    "resumen": "Las tres mayores cadenas de farmacias de Chile —FASA, Cruz Verde y Salcobrand— se coludieron para alzar coordinadamente los precios de al menos 206 medicamentos entre diciembre de 2007 y marzo de 2008, mediante un esquema denominado «1-2-3» en el que una cadena subía primero y las otras seguían en días sucesivos. La Fiscalía Nacional Económica presentó requerimiento en 2008. En enero de 2012 el TDLC condenó a Cruz Verde y Salcobrand a la multa máxima de 20.000 UTA cada una (cerca de US9 millones). FASA quedó exenta tras delatar el cartel y pagar US millón en acuerdo conciliatorio. La Corte Suprema confirmó las condenas en septiembre de 2012, señalando que «el interés económico se sobrepuso a la dignidad humana, a la vida y a la salud de las personas». Fue el primer gran caso de colusión que impactó la opinión pública chilena.",
+    "resumen": "Las tres mayores cadenas de farmacias de Chile —FASA, Cruz Verde y Salcobrand— se coludieron para alzar coordinadamente los precios de al menos 206 medicamentos entre diciembre de 2007 y marzo de 2008, mediante un esquema denominado «1-2-3» en el que una cadena subía primero y las otras seguían en días sucesivos. La Fiscalía Nacional Económica presentó requerimiento en 2008. En enero de 2012 el TDLC condenó a Cruz Verde y Salcobrand a la multa máxima de 20.000 UTA cada una (cerca de US$16,6 millones). FASA quedó exenta tras delatar el cartel y pagar US$1 millón en acuerdo conciliatorio. La Corte Suprema confirmó las condenas en septiembre de 2012, señalando que «el interés económico se sobrepuso a la dignidad humana, a la vida y a la salud de las personas». Fue el primer gran caso de colusión que impactó la opinión pública chilena.",
     "estado": "Condenas firmes (Corte Suprema, 2012); multas pagadas; demanda colectiva del Sernac en tramitación",
     "fuente": "https://www.tdlc.cl/tdlc-condena-a-farmacias-cruz-verde-s-a-y-salcobrand-s-a-por-colusion-en-el-mercado-de-distribuion-de-productos-farmaceuticos/"
   },
@@ -114,8 +152,8 @@
       "Nicolás Ramírez",
       "Pablo Fuenzalida"
     ],
-    "resumen": "En junio de 2011, la multitienda La Polar reconoció haber repactado unilateralmente y sin consentimiento las deudas de más de 400.000 clientes entre 2006 y 2011, inflando artificialmente su cartera de créditos y entregando información falsa al mercado. El día de la revelación, la acción cayó 42% y la empresa perdió US70 millones de capitalización bursátil. Los fondos de pensiones sufrieron pérdidas estimadas entre US1 y US4 millones. En diciembre de 2015, los exejecutivos Pablo Alcalde (expresidente del directorio), María Isabel Farah y Julián Moreno fueron condenados a 5 años de presidio por entrega de información falsa al mercado y lavado de activos, cumpliendo la pena en libertad vigilada. En 2024, la Corte de Apelaciones condenó a los exejecutivos a pagar más de US00 millones a AFP Provida; la Corte Suprema confirmó la sentencia en marzo de 2026.",
-    "estado": "Condenas penales cumplidas en libertad vigilada; condena civil de US00 millones confirmada por Corte Suprema (2026)",
+    "resumen": "En junio de 2011, la multitienda La Polar reconoció haber repactado unilateralmente y sin consentimiento las deudas de más de 400.000 clientes entre 2006 y 2011, inflando artificialmente su cartera de créditos y entregando información falsa al mercado. El día de la revelación, la acción cayó 42% y la empresa perdió US$670 millones de capitalización bursátil. Los fondos de pensiones (AFP) también resultaron afectados: solo AFP Cuprum reportó pérdidas por US$147 millones. En diciembre de 2015, los exejecutivos Pablo Alcalde (expresidente del directorio), María Isabel Farah y Julián Moreno fueron condenados a 5 años de presidio por entrega de información falsa al mercado y lavado de activos, cumpliendo la pena en libertad vigilada. En 2024, la Corte de Apelaciones condenó a los exejecutivos a pagar más de US$100 millones a AFP Provida; la Corte Suprema confirmó la sentencia en marzo de 2026.",
+    "estado": "Condenas penales cumplidas en libertad vigilada; condena civil de US$100 millones confirmada por Corte Suprema (2026)",
     "fuente": "https://es.wikipedia.org/wiki/Caso_La_Polar"
   },
   {
@@ -136,8 +174,8 @@
       "Patricio Contesse",
       "LarrainVial Corredora de Bolsa"
     ],
-    "resumen": "Julio Ponce Lerou —exyerno de Pinochet y controlador de SQM— operó entre 2009 y 2011 un esquema de compraventas de acciones a través de sociedades «cascada» que controlaban el 32% de SQM, beneficiándose a sí mismo y a personas cercanas en desmedro de los accionistas minoritarios, entre ellos fondos de pensiones (AFP). La SVS lo multó en septiembre de 2014 con la mayor sanción de la historia del mercado chileno: 1.700.000 UF (US4 millones). Sin embargo, el Tribunal Constitucional rebajó la multa a 75.000 UF (US,3 millones), decisión ratificada por la Corte Suprema en 2020. El máximo tribunal confirmó la existencia del esquema ilegal, pero la multa efectiva quedó reducida a una fracción del perjuicio causado. Los fondos de pensiones perdieron entre US1 y US4 millones.",
-    "estado": "Esquema ilegal confirmado por Corte Suprema (2020); multa rebajada por TC a US,3 millones; causa cerrada",
+    "resumen": "Julio Ponce Lerou —exyerno de Pinochet y controlador de SQM— operó entre 2009 y 2011 un esquema de compraventas de acciones a través de sociedades «cascada» que controlaban el 32% de SQM, beneficiándose a sí mismo y a personas cercanas en desmedro de los accionistas minoritarios, entre ellos fondos de pensiones (AFP). La SVS lo multó en septiembre de 2014 con la mayor sanción de la historia del mercado chileno: 1.700.000 UF (cerca de US$62 millones). Sin embargo, el Tribunal Constitucional rebajó la multa a 75.000 UF (US$3,3 millones), decisión ratificada por la Corte Suprema en 2020. El máximo tribunal confirmó la existencia del esquema ilegal, pero la multa efectiva quedó reducida a una fracción del perjuicio causado. Los fondos de pensiones del sistema perdieron en conjunto entre US$31 y US$44 millones.",
+    "estado": "Esquema ilegal confirmado por Corte Suprema (2020); multa rebajada por TC a US$3,3 millones; causa cerrada",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Cascadas"
   },
   {
@@ -185,6 +223,23 @@
     "estado": "Empresas condenadas por TDLC y Corte Suprema; Quiroz sin imputación penal, en ejercicio como ministro de Hacienda",
     "fuente": "https://interferencia.cl/articulos/kast-defiende-el-rol-en-la-colusion-de-los-pollos-de-su-asesor-economico-jorge-quiroz",
     "vigente": true
+  },
+  {
+    "id": "parisi-rendicion-2014",
+    "nombre": "Caso Rendición de Gastos Electorales (Parisi)",
+    "anio": 2014,
+    "tipo": "Rendición irregular de gastos de campaña electoral",
+    "categoria": "controversia",
+    "sector": "transversal",
+    "partidos": [
+      "PRI (Partido Regionalista de los Independientes)"
+    ],
+    "involucrados": [
+      "Franco Parisi"
+    ],
+    "resumen": "En febrero de 2014, el Servicio Electoral (Servel) objetó 27 rendiciones de gastos de la campaña presidencial de Franco Parisi (PRI), entre ellas $580.400 en cinturones, corbatas, bóxers, calcetines y zapatos de la marca Hugo Boss declarados como gasto electoral. También objetó una factura de $59,5 millones por publicidad pagada a una empresa dedicada a la compraventa de caballos y un pago de $8 millones a su prima Karen Tapia Parisi por labores de secretaria en terreno. Parisi calificó lo ocurrido como una 'ingenuidad' y un error administrativo de su equipo.",
+    "estado": "Rendición de gastos rechazada por el Servel (2014); sin consecuencias penales conocidas",
+    "fuente": "https://www.biobiochile.cl/noticias/2014/02/03/servel-objeta-a-parisi-gasto-electoral-por-ropa-interior-hugo-boss-y-sueldo-de-8-millones-a-prima.shtml"
   },
   {
     "id": "sqm",
@@ -287,9 +342,26 @@
       "CMPC Tissue (Grupo Matte)",
       "SCA Chile / Essity (ex PISA)"
     ],
-    "resumen": "CMPC Tissue (del grupo Matte, marcas Confort, Elite, Nova) y SCA Chile (hoy Essity, marcas Favorita y Magiklin) se coludieron entre 2000 y 2011 para asignarse cuotas de participación de mercado y fijar precios de venta de papel higiénico, toallas, servilletas y pañuelos desechables. Juntas controlaban el 90% del mercado con ventas anuales de US00 millones. El TDLC condenó a SCA a la multa máxima y eximió a CMPC por delación compensada. En enero de 2020, la Corte Suprema revocó el beneficio de CMPC y condenó a ambas a pagar 20.000 UTA cada una (más de US5 millones), señalando que CMPC había coaccionado a SCA para participar en el cartel. CMPC ofreció una compensación voluntaria de .000 por persona a los consumidores afectados.",
-    "estado": "Condenas firmes (Corte Suprema, 2020); multas de US5 millones a cada empresa; compensación a consumidores ejecutada",
+    "resumen": "CMPC Tissue (del grupo Matte, marcas Confort, Elite, Nova) y SCA Chile (hoy Essity, marcas Favorita y Magiklin) se coludieron entre 2000 y 2011 para asignarse cuotas de participación de mercado y fijar precios de venta de papel higiénico, toallas, servilletas y pañuelos desechables. Juntas controlaban el 90% del mercado con ventas anuales cercanas a los US$400 millones. El TDLC condenó a SCA a la multa máxima y eximió a CMPC por delación compensada. En enero de 2020, la Corte Suprema revocó el beneficio de CMPC y condenó a ambas a pagar 20.000 UTA cada una (poco más de US$15 millones), señalando que CMPC había coaccionado a SCA para participar en el cartel. CMPC acordó además una compensación histórica a los consumidores por US$150 millones (cerca de $97.647 millones), pagando $7.000 a cada persona mayor de 18 años.",
+    "estado": "Condenas firmes (Corte Suprema, 2020); multas de poco más de US$15 millones a cada empresa. CMPC pagó una compensación histórica de US$150 millones a los consumidores; en 2024 la Corte Suprema rechazó las demandas contra SCA Chile, que no compensó a los afectados",
     "fuente": "https://es.wikipedia.org/wiki/Colusi%C3%B3n_del_papel_higi%C3%A9nico_en_Chile"
+  },
+  {
+    "id": "cema-chile",
+    "nombre": "Caso CEMA Chile (Lucía Hiriart)",
+    "anio": 2016,
+    "tipo": "Malversación de bienes fiscales / apropiación indebida",
+    "categoria": "corrupcion",
+    "sector": "institucional",
+    "partidos": [
+      "Fundación CEMA Chile"
+    ],
+    "involucrados": [
+      "Lucía Hiriart"
+    ],
+    "resumen": "Entre 1977 y 1989, durante la dictadura, el Ministerio de Bienes Nacionales transfirió gratuitamente al menos 134 inmuebles fiscales a la Fundación CEMA Chile, presidida por Lucía Hiriart, esposa de Augusto Pinochet. Una tasación posterior de Bienes Nacionales estableció que el avalúo fiscal de esas propiedades bordeaba los $80.000 millones. La fundación operó durante décadas como una inmobiliaria privada, vendiendo terrenos y generando ingresos millonarios. En 2016, diputados del PC presentaron una querella contra Hiriart por malversación de caudales públicos y apropiación indebida.",
+    "estado": "Fundación disuelta (2017); en 2018 firmó ante la Corte de Apelaciones de Santiago la entrega de sus propiedades restantes al Fisco",
+    "fuente": "https://radio.uchile.cl/2021/12/17/cema-chile-la-fundacion-pro-mujeres-que-lucia-hiriart-convirtio-en-inmobiliaria-privada/"
   },
   {
     "id": "pacogate",
@@ -322,8 +394,8 @@
       "Virginia Reginato",
       "Funcionarios municipales de Viña del Mar"
     ],
-    "resumen": "La exalcaldesa de Viña del Mar Virginia Reginato (UDI) es investigada por malversación de cerca de $100.000 millones a través de horas extras irregulares pagadas a funcionarios municipales durante su gestión. Una de las mayores investigaciones por fraude municipal en Chile.",
-    "estado": "Investigación vigente; formalizaciones en curso",
+    "resumen": "La exalcaldesa de Viña del Mar Virginia Reginato (UDI) es investigada por malversación de cerca de $100.000 millones a través de horas extras irregulares pagadas a funcionarios municipales durante su gestión. Una de las mayores investigaciones por fraude municipal en Chile. Por separado, en noviembre de 2021 la administración de la alcaldesa Macarena Ripamonti demandó civilmente a Reginato y a su exadministrador municipal Claudio Boisier por $879.240.239, correspondientes a intereses y multas generados por el no pago oportuno de cotizaciones previsionales de trabajadores de la Corporación Municipal entre 2016 y 2021. En abril de 2024 el Segundo Juzgado Civil de Viña del Mar rechazó esa demanda, al no acreditarse dolo o culpa de Reginato en los hechos.",
+    "estado": "Investigación penal por malversación vigente; formalizaciones en curso. Demanda civil por $879 millones rechazada por tribunal (abril 2024)",
     "fuente": "https://www.elclarin.cl/2024/05/18/corrupcion-municipal-la-udi-encabeza-la-lista-de-casos-en-chile/"
   },
   {
@@ -426,6 +498,23 @@
     "fuente": "https://www.ciperchile.cl/2021/10/03/pandora-papers-familias-pinera-y-delano-sellaron-millonaria-compraventa-de-minera-dominga-en-islas-virgenes-britanicas/"
   },
   {
+    "id": "caso-ancalao",
+    "nombre": "Caso Ancalao / Firmas falsas ante notario fallecido",
+    "anio": 2021,
+    "tipo": "Falsificación de instrumento público / fraude electoral",
+    "categoria": "corrupcion",
+    "sector": "izquierda",
+    "partidos": [
+      "Independiente (respaldado por Lista del Pueblo)"
+    ],
+    "involucrados": [
+      "Diego Ancalao"
+    ],
+    "resumen": "El excandidato presidencial Diego Ancalao, respaldado por la Lista del Pueblo, inscribió su candidatura en agosto de 2021 presentando al Servel 23.161 firmas de patrocinio supuestamente rubricadas ante el notario Patricio Zaldívar, quien había fallecido el 11 de febrero de ese año. El Servel detectó que 9.265 de esas firmas se habrían registrado en un solo día (20 de agosto) y rechazó la candidatura, denunciando el hecho al Ministerio Público. La hija del notario fallecido se querelló por usurpación de nombre y falsificación de instrumento público. En diciembre de 2023 la PDI detuvo a cuatro colaboradores de Ancalao; la Fiscalía solicitó 15 años de presidio para él por liderar el esquema de firmas falsas.",
+    "estado": "Investigación penal en curso; Fiscalía solicita 15 años de presidio para Ancalao",
+    "fuente": "https://www.emol.com/noticias/Nacional/2021/09/01/1031378/servel-firmas-notario-ancalao-pueblo.html"
+  },
+  {
     "id": "torrealba",
     "nombre": "Caso Vitacura (Torrealba)",
     "anio": 2022,
@@ -442,6 +531,26 @@
     "resumen": "El exalcalde de Vitacura Raúl Torrealba (RN) fue investigado por cohecho, lavado de activos y delitos tributarios vinculados a contratos municipales. Caso que destapó nuevas formas de corrupción municipal en comunas acomodadas.",
     "estado": "Formalizado; investigación en curso",
     "fuente": "https://es.wikipedia.org/wiki/Corrupci%C3%B3n_en_Chile"
+  },
+  {
+    "id": "luminarias-led-paredes",
+    "nombre": "Caso Luminarias LED / Itelecom (Fernando Paredes, Puerto Natales)",
+    "anio": 2022,
+    "tipo": "Cohecho / violación de secreto / fraude al fisco",
+    "categoria": "corrupcion",
+    "sector": "derecha",
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Fernando Paredes Mansilla",
+      "Itelecom",
+      "Alejandro Velásquez"
+    ],
+    "resumen": "El exalcalde de Puerto Natales Fernando Paredes Mansilla (UDI) fue formalizado en noviembre de 2022 por cohecho y violación de secreto en el marco del proyecto de reposición de luminarias públicas LED de la comuna, financiado por el Gobierno Regional de Magallanes con cerca de $1.673 millones. Según la Fiscalía, Paredes aceptó pagos de la empresa Itelecom a cambio de intervenir en las bases y especificaciones de la licitación; los vínculos entre ejecutivos de Itelecom y alcaldes de distintas comunas del país —entre ellos Puerto Natales— habían sido revelados públicamente en enero de 2021. El 23 de enero de 2023 fue enviado a prisión preventiva, medida que mantuvo por más de dos años y medio hasta pasar a arresto domiciliario y luego, en agosto de 2025, a firma mensual con arraigo regional. Por separado, en marzo de 2024 Paredes y el exdirectivo de la Corporación Municipal de Natales (CORMUNAT) Alejandro Velásquez fueron formalizados por fraude al fisco por $43 millones. Tras negarse a admitir responsabilidad, Paredes optó por ir a juicio oral, que se inició el 31 de julio de 2026; la Fiscalía pidió 10 años de presidio. El 1 de septiembre de 2026 el tribunal lo condenó por cohecho agravado y lo absolvió del cargo de violación de secreto.",
+    "estado": "Condenado por cohecho agravado (1 de septiembre de 2026); absuelto de violación de secreto; lectura de sentencia fijada para el 11 de septiembre de 2026; arista de fraude al fisco (CORMUNAT) en tramitación",
+    "fuente": "https://laprensaaustral.cl/2026/09/01/exalcalde-fernando-paredes-es-condenado-por-cohecho-y-absuelto-por-violacion-de-secreto/",
+    "vigente": true
   },
   {
     "id": "karina-oliva",
@@ -482,6 +591,45 @@
     "estado": "Formalizaciones múltiples; investigación expandida a más de 50 fundaciones",
     "fuente": "https://es.wikipedia.org/wiki/Caso_Convenios",
     "vigente": true
+  },
+  {
+    "id": "caso-lenceria-polizzi",
+    "nombre": "Caso Lencería (Camila Polizzi)",
+    "anio": 2023,
+    "tipo": "Fraude al fisco / estafa / lavado de activos (arista del Caso Convenios)",
+    "categoria": "corrupcion",
+    "sector": "izquierda",
+    "partidos": [
+      "Independiente (ex cupo Frente Amplio)"
+    ],
+    "involucrados": [
+      "Camila Polizzi",
+      "Sebastián Polanco",
+      "Simón Acuña",
+      "Rodrigo Martínez"
+    ],
+    "resumen": "La excandidata a alcaldesa de Concepción Camila Polizzi obtuvo, a través de la Fundación En Ti, un convenio directo por $250 millones con el Gobierno Regional del Biobío para un proyecto de recuperación de espacios y seguridad en el Barrio Norte de Concepción. La Fiscalía acusa que buena parte de esos fondos se destinó a fines ajenos al convenio, incluyendo compras de lencería y otros artículos personales. Polizzi fue detenida por la PDI en julio de 2023 junto a su entonces pareja Sebastián Polanco; la Fiscalía Anticorrupción de Biobío los acusa de estafa y lavado de activos, y solicita 15 años de presidio para el exjefe de división del GORE Simón Acuña y el exadministrador regional Rodrigo Martínez por fraude al fisco.",
+    "estado": "En juicio; Fiscalía solicita 8 años de presidio para Polizzi y Polanco (septiembre 2025)",
+    "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/caso-lenceria-fiscalia-pidio-ocho-anos-de-carcel-para-camila-polizzi-y/2025-09-12/091719.html",
+    "vigente": true
+  },
+  {
+    "id": "centro-espacial",
+    "nombre": "Caso Centro Espacial (arista Caso Convenios, Ricardo Rincón)",
+    "anio": 2023,
+    "tipo": "Convenio irregular con fundación / fraude al fisco",
+    "categoria": "corrupcion",
+    "sector": "centroizquierda",
+    "partidos": [
+      "Demócratas"
+    ],
+    "involucrados": [
+      "Ricardo Rincón",
+      "Fundación Leitat Chile"
+    ],
+    "resumen": "A inicios de 2023, el Gobierno Regional del Biobío asignó de forma directa $720 millones a la Fundación Leitat Chile para crear un supuesto 'Centro de Innovación Espacial', proyecto que en la práctica se redujo a talleres en colegios y la organización de 'torneos espaciales'. En él trabajó Ricardo Rincón, hermano de la entonces presidenta del Partido Demócratas y senadora Ximena Rincón, quien recibió al menos $15 millones por labores de 'consultoría' y un 'plan de gobernanza'. Un año después del cierre del programa, apenas $100 millones de los $720 millones habían sido ejecutados.",
+    "estado": "Fiscalía investiga el traspaso; el Primer Juzgado Civil de Concepción condenó a la Fundación Leitat a restituir $564 millones al GORE Biobío, con $224 millones adicionales pendientes de devolución (2026)",
+    "fuente": "https://www.biobiochile.cl/especial/bbcl-investiga/noticias/reportajes/2024/05/08/otra-trenza-politica-gore-bio-bio-asigno-720-millones-a-centro-espacial-ligado-a-ricardo-rincon.shtml"
   },
   {
     "id": "algarrobo-yanez",
