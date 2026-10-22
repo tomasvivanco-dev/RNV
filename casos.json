@@ -834,5 +834,24 @@
     "estado": "Formalizado (mayo y julio 2026); en prisión preventiva; investigación en curso",
     "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/exdiputado-joaquin-lavin-leon-es-formalizado-por-hechos-de-corrupcion/2026-05-04/094320.html",
     "vigente": true
+  },
+  {
+    "id": "rio-bueno-reyes",
+    "nombre": "Caso Río Bueno (Alcalde Luis Reyes)",
+    "anio": 2026,
+    "tipo": "Cohecho / lavado de activos / soborno en licitaciones municipales",
+    "categoria": "corrupcion",
+    "sector": "derecha",
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Luis Reyes Álvarez",
+      "Héctor Meza"
+    ],
+    "resumen": "El alcalde de Río Bueno, Luis Reyes Álvarez (UDI), fue formalizado en el Juzgado de Garantía de la comuna por cohecho agravado reiterado y lavado de activos, en una investigación por procesos de licitación municipal entre 2017 y 2022. Según el Ministerio Público, habría recibido pagos de tres proveedores a cambio de favorecerlos, por al menos $36,36 millones en beneficios indebidos, de los cuales $27,86 millones provendrían del empresario constructor Héctor Meza, formalizado por soborno. Además, se detectaron cerca de $90 millones en depósitos en efectivo en la cuenta personal del alcalde sin origen identificado. La causa se originó en una denuncia de concejales. El 21 de octubre de 2026 el tribunal decretó prisión preventiva para ambos, destacando que la conducta del jefe comunal afecta la confianza pública y la probidad administrativa. En la misma audiencia fueron formalizados la conviviente del alcalde y otros tres imputados, con cautelares de menor intensidad.",
+    "estado": "Formalizado (octubre 2026); alcalde y empresario en prisión preventiva; investigación en curso",
+    "fuente": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/10/21/alcalde-de-rio-bueno-luis-reyes-queda-en-prision-preventiva-por-delitos-de-corrupcion.shtml",
+    "vigente": true
   }
 ]
