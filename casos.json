@@ -834,5 +834,29 @@
     "estado": "Formalizado (mayo y julio 2026); en prisión preventiva; investigación en curso",
     "fuente": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/exdiputado-joaquin-lavin-leon-es-formalizado-por-hechos-de-corrupcion/2026-05-04/094320.html",
     "vigente": true
+  },
+  {
+    "id": "rio-bueno-reyes",
+    "nombre": "Caso Río Bueno (Luis Reyes)",
+    "anio": 2026,
+    "tipo": "Cohecho agravado / lavado de activos",
+    "categoria": "corrupcion",
+    "sector": "derecha",
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Luis Roberto Reyes Álvarez",
+      "Héctor Meza Hermosilla",
+      "Gladys Roxana Mancilla Albornoz",
+      "Elizabeth Lorena Rosas Beroiza",
+      "Alejandro Andrés Rosas Cárcamo",
+      "Rodrigo Enrique Maluenda Ramírez",
+      "Juan Carlos Reyes Padilla"
+    ],
+    "resumen": "El alcalde de Río Bueno (Región de Los Ríos) Luis Reyes Álvarez (exmilitante UDI) es investigado por cohecho agravado y lavado de activos por hechos ocurridos entre 2017 y 2022. Según la Fiscalía, solicitó y recibió pagos de contratistas y proveedores municipales a cambio de favorecerlos en licitaciones, agilizar pagos, debilitar fiscalizaciones y anular multas; se le atribuyen al menos $36,36 millones obtenidos por este esquema. Entre los casos puntuales: el empresario Héctor Meza Hermosilla, cuyas constructoras se adjudicaron numerosos proyectos municipales entre 2016 y 2021, habría transferido cerca de $27,86 millones a cuentas del alcalde y de su pareja Gladys Mancilla —quien habría prestado su cuenta para recibir los depósitos—, además de la condonación de cuatro multas por $18 millones; y el empresario Rodrigo Maluenda, representante de Maluenda Producciones, habría pagado $3 millones para adjudicarse la licitación de la Semana Río Buenina 2020 (por $85 millones), contrato que el alcalde aprobó el mismo día en que recibió la transferencia. En junio de 2025 ya se había reportado que Reyes recibió cerca de $22 millones en depósitos en efectivo de funcionarios públicos en su cuenta personal. El 21 de octubre de 2026 fue formalizado y enviado a prisión preventiva —confirmada en apelación por la Corte de Valdivia—, junto a Meza Hermosilla; otros imputados (Maluenda, Mancilla, Rosas Beroiza y el funcionario municipal Alejandro Rosas Cárcamo) quedaron con arraigo nacional y firma. El 11 de noviembre de 2026 renunciaron sus tres abogados defensores. El 18 de noviembre de 2026 presentó su renuncia al cargo de alcalde.",
+    "estado": "En prisión preventiva desde octubre de 2026; renunció al cargo de alcalde el 18 de noviembre de 2026; investigación en curso (plazo de 100 días)",
+    "fuente": "https://www.adnradio.cl/2026/11/18/en-prision-preventiva-investigado-pro-cohecho-alcalde-de-rio-bueno-presenta-su-renuncia-al-cargo/",
+    "vigente": true
   }
 ]
