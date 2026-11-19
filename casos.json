@@ -839,19 +839,24 @@
     "id": "rio-bueno-reyes",
     "nombre": "Caso Río Bueno (Alcalde Luis Reyes)",
     "anio": 2026,
-    "tipo": "Cohecho / lavado de activos / soborno en licitaciones municipales",
+    "tipo": "Cohecho agravado / lavado de activos / soborno en licitaciones municipales",
     "categoria": "corrupcion",
     "sector": "derecha",
     "partidos": [
       "UDI"
     ],
     "involucrados": [
-      "Luis Reyes Álvarez",
-      "Héctor Meza"
+      "Luis Roberto Reyes Álvarez",
+      "Héctor Meza Hermosilla",
+      "Gladys Roxana Mancilla Albornoz",
+      "Elizabeth Lorena Rosas Beroiza",
+      "Alejandro Andrés Rosas Cárcamo",
+      "Rodrigo Enrique Maluenda Ramírez",
+      "Juan Carlos Reyes Padilla"
     ],
-    "resumen": "El alcalde de Río Bueno, Luis Reyes Álvarez (UDI), fue formalizado en el Juzgado de Garantía de la comuna por cohecho agravado reiterado y lavado de activos, en una investigación por procesos de licitación municipal entre 2017 y 2022. Según el Ministerio Público, habría recibido pagos de tres proveedores a cambio de favorecerlos, por al menos $36,36 millones en beneficios indebidos, de los cuales $27,86 millones provendrían del empresario constructor Héctor Meza, formalizado por soborno. Además, se detectaron cerca de $90 millones en depósitos en efectivo en la cuenta personal del alcalde sin origen identificado. La causa se originó en una denuncia de concejales. El 21 de octubre de 2026 el tribunal decretó prisión preventiva para ambos, destacando que la conducta del jefe comunal afecta la confianza pública y la probidad administrativa. En la misma audiencia fueron formalizados la conviviente del alcalde y otros tres imputados, con cautelares de menor intensidad.",
-    "estado": "Formalizado (octubre 2026); alcalde y empresario en prisión preventiva; investigación en curso",
-    "fuente": "https://www.biobiochile.cl/noticias/nacional/region-de-los-rios/2026/10/21/alcalde-de-rio-bueno-luis-reyes-queda-en-prision-preventiva-por-delitos-de-corrupcion.shtml",
+    "resumen": "El alcalde de Río Bueno (Región de Los Ríos) Luis Reyes Álvarez (exmilitante UDI) es investigado por cohecho agravado y lavado de activos por hechos ocurridos entre 2017 y 2022, tras una denuncia de concejales de la comuna. Según la Fiscalía, solicitó y recibió pagos de contratistas y proveedores municipales a cambio de favorecerlos en licitaciones, agilizar pagos, debilitar fiscalizaciones y anular multas; se le atribuyen al menos $36,36 millones obtenidos por este esquema, además de cerca de $90 millones en depósitos en efectivo detectados en su cuenta personal sin origen identificado. Entre los casos puntuales: el empresario constructor Héctor Meza Hermosilla, cuyas constructoras se adjudicaron numerosos proyectos municipales entre 2016 y 2021, habría transferido cerca de $27,86 millones a cuentas del alcalde y de su pareja Gladys Mancilla —quien habría prestado su cuenta para recibir los depósitos—, además de la condonación de cuatro multas por $18 millones; y el empresario Rodrigo Maluenda, representante de Maluenda Producciones, habría pagado $3 millones para adjudicarse la licitación de la Semana Río Buenina 2020 (por $85 millones), contrato que el alcalde aprobó el mismo día en que recibió la transferencia. El 21 de octubre de 2026 fue formalizado y enviado a prisión preventiva —confirmada en apelación por la Corte de Valdivia—, junto a Meza Hermosilla; otros imputados (Maluenda, Mancilla, Rosas Beroiza y el funcionario municipal Alejandro Rosas Cárcamo) quedaron con arraigo nacional y firma. El 11 de noviembre de 2026 renunciaron sus tres abogados defensores. El 18 de noviembre de 2026 presentó su renuncia al cargo de alcalde.",
+    "estado": "En prisión preventiva desde octubre de 2026; renunció al cargo de alcalde el 18 de noviembre de 2026; investigación en curso (plazo de 100 días)",
+    "fuente": "https://www.adnradio.cl/2026/11/18/en-prision-preventiva-investigado-pro-cohecho-alcalde-de-rio-bueno-presenta-su-renuncia-al-cargo/",
     "vigente": true
   }
 ]
