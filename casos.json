@@ -858,5 +858,26 @@
     "estado": "En prisión preventiva desde octubre de 2026; renunció al cargo de alcalde el 18 de noviembre de 2026; investigación en curso (plazo de 100 días)",
     "fuente": "https://www.adnradio.cl/2026/11/18/en-prision-preventiva-investigado-pro-cohecho-alcalde-de-rio-bueno-presenta-su-renuncia-al-cargo/",
     "vigente": true
+  },
+  {
+    "id": "itelecom-las-condes",
+    "nombre": "Caso Itelecom / Luminarias de Las Condes",
+    "anio": 2026,
+    "tipo": "Cohecho / soborno / fraude al fisco (arista Itelecom)",
+    "categoria": "corrupcion",
+    "sector": "derecha",
+    "partidos": [
+      "UDI"
+    ],
+    "involucrados": [
+      "Alejandro Contreras Morales",
+      "Marcelo Lefort",
+      "Itelecom",
+      "Municipalidad de Las Condes"
+    ],
+    "resumen": "El Consejo de Defensa del Estado (CDE) se querelló por cohecho contra quienes resulten responsables, apuntando a Alejandro Contreras Morales —quien integró la comisión técnica de la licitación de luminarias LED de la Municipalidad de Las Condes, adjudicada en 2019 a la empresa Itelecom por más de $102 mil millones—, en el marco de la misma red de corrupción que ya había salpicado a Puerto Natales, Iquique, Chillán y Recoleta (comuna de Daniel Jadue). Según la querella, tras la adjudicación Contreras solicitó al propietario de Itelecom, Marcelo Lefort (fallecido en septiembre de 2025), la donación de dos containers para la Corporación Cultural de Las Condes; un audio de 2019, citado en un informe policial de 2022, registra a Contreras pidiendo 'un container, uno solo' y a Lefort respondiendo 'No hay problema, pero lo regulariza'i eso sí'. El CDE sostiene que esa gestión no formaba parte de las obligaciones de la empresa adjudicataria y pide investigar también soborno y fraude al fisco. Contreras, que fue administrador municipal de Las Condes hasta renunciar en 2023 tras denuncias de concejales por la compra irregular de un terreno para un Cesfam, es citado en otro audio diciendo 'el alcalde me pidió que me viniera para acá', sin que el artículo identifique a esa autoridad; en 2019, al momento de la adjudicación, el alcalde de Las Condes era Joaquín Lavín (UDI). La causa raíz del esquema Itelecom es la de Iquique, donde Lefort fue condenado a 650 días de presidio —con derecho a cumplirlos en libertad— por sobornar a concejales y funcionarios para que se aceptara la oferta de su empresa, descrita como 'la más cara de todas'.",
+    "estado": "Querella del CDE acogida a trámite por el 4° Juzgado de Garantía de Santiago (noviembre 2026); será remitida a la Fiscalía Oriente para decidir formalización; sin imputados formalizados",
+    "fuente": "https://www.24horas.cl/informe-especial/codigo/cde-se-querella-municipalidad-de-las-condes-corrupcion-luminarias",
+    "vigente": true
   }
 ]
